@@ -25,12 +25,12 @@ I believe coding is not just about writing functions that work, but about **craf
 ---
 
 ### 📫 Connect with Me  
-- 🌐 Portfolio: [huynhnanquoc.com](https://huynhnanquoc.com)  
-- 🐦 Twitter/X: [@huynhnanquoc](https://twitter.com/huynhnanquoc)  
-- 💼 LinkedIn: [@huynhnanquoc](https://www.linkedin.com/in/huynhnanquoc)  
-- 💻 GitHub: [@huynhnanquoc](https://github.com/huynhnanquoc)  
-- 🧵 Threads: [@huynhnanquoc](https://www.threads.net/@huynhnanquoc)  
-- ▶️ YouTube: [@huynhnanquoc](https://www.youtube.com/@huynhnanquoc)  
+- 🌐 Portfolio: [huynhnhanquoc.com](https://huynhnhanquoc.com)  
+- 🐦 Twitter/X: [@huynhnhanquoc](https://twitter.com/huynhnhanquoc)  
+- 💼 LinkedIn: [@huynhnhanquoc](https://www.linkedin.com/in/huynhnhanquoc)  
+- 💻 GitHub: [@huynhnhanquoc](https://github.com/huynhnhanquoc)  
+- 🧵 Threads: [@huynhnhanquoc](https://www.threads.net/@huynhnhanquoc)  
+- ▶️ YouTube: [@huynhnhanquoc](https://www.youtube.com/@huynhnhanquoc)  
 
 ---
 
