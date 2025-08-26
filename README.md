@@ -85,7 +85,7 @@ func (p Profile) Infomation() Profile {
 }
 
 func (p Profile) AboutMe() Profile {
-	p.Summary = `I’m an indie-stack developer from Vietnam, passionate about building fast, simple, and useful products. I love the indie spirit: working end-to-end from idea → design → code → deploy → iterate. Currently, I’m focusing on kitmodule.com — a space where I explore ideas, craft tools, and ship products that embrace minimalism, speed, and real-world value.`
+	p.Summary = `I’m an indie-stack developer from Vietnam, passionate about crafting simple, practical, and meaningful products. I follow the indie spirit: guiding a project from problem → need → experiment → operation → testing → packaging → open → iterative development. I share these journeys on kitmodule.com , a space where I explore ideas, build tools, and deliver products that celebrate minimalism, elegance, and tangible impact.`
 	return p
 }
 
@@ -164,4 +164,4 @@ func main() {
 }
 ```
 ✨ *I’m a dreamer who values not just running code, but the control and creativity behind it.*  
-💻 Code Writer – Huỳnh Nhân Quốc
+💻 Code Artist – Huỳnh Nhân Quốc
