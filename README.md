@@ -1,88 +1,85 @@
-# ✌️ Hello world, I'm **Huynh Nhan Quoc**
+# ✨ Huynh Nhan Quoc
 
-> A **dreamy indie-stack developer**, wandering through code and weaving dreams.  
-> I explore algorithms and ideas, turning curiosity and passion into open source creations.
+Hello world, I’m a **dreamy indie-stack developer** exploring the space between **logic and aesthetics**.  
+I build with **Golang** and **JavaScript**, crafting small, meaningful tools that are clear, modular, and self-hosted.  
+Driven by curiosity, I turn quiet ideas into clean, creative open-source projects.  
 
-I’m in love with **Golang** and **JavaScript** —  
-my favorite brushes to paint ideas into life. 🌿
-
-## 🌸 Kit Module – My Little Home
-
-**Kit Module** is where my ideas take form.  
-Each *kit*, each *module* beats with the rhythm of my heart 💓 —  
-sometimes clumsy, sometimes playful, always sincere.
-
-> Sharing dreams with the world —  
-> one line of code, one module, one kit at a time.
+>“I build ideas, not empires. One tiny module at a time.”
 
 
-## 🌱 Planting Seeds
+## 💻 Tech Stack
 
-I plant seeds made of **code, ideas, and open source**,  
-hoping they will bloom into flowers for the world 🌼.  
+> Building with clarity and simplicity. This is my toolkit for creating modular, self-hosted software.
 
-Even the smallest contribution can spark inspiration  
-or awaken someone else’s dream.
-
-
-## 💻 My Tech Playground
-
-- **Languages & Stack:** Golang, JavaScript, PostgreSQL  
-- **Passions:** Open source, indie-stack development, experimentation  
-- **Current Focus:** Growing **Kit Module** as a creative playground for tiny projects
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Fiber](https://img.shields.io/badge/Fiber-00A8E8.svg?style=for-the-badge&logo=fiber&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM-GORM-6C63FF?style=for-the-badge)
+![Selfhost](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🏡 Open Source Projects
+## 🚀 Kit Module • My Indie Lab
+
+[**Kit Module**](https://github.com/kitmodule) is my creative home for open-source experiments.  
+Each *kit* is a small, focused project designed to be elegant, useful, and human.
 
 | Project | Description |
 |----------|--------------|
-| 🧩 [Kit Module](https://github.com/kitmodule) | My indie home for open source projects |
-| 📂 [Kit File](https://github.com/huynhnhanquoc/kitfile) | A tiny toolkit for file operations |
-| ⚡ [Kit JS](https://github.com/kitmodule/kitjs) | A minimalist JavaScript micro-framework |
+| ⚡ [Kit JS](https://github.com/kitmodule/kitjs) | Minimalist JavaScript micro-framework |
+| 📂 [Kit File](https://github.com/huynhnhanquoc/kitfile) | Tiny toolkit for file operations |
+| 🧩 [Kit Module](https://github.com/kitmodule) | Open-source playground for modular ideas |
 
 
-## 🚀 Dreamer’s Lab
+## 🌐 Projects
 
-Where ideas become tiny tools and experiments for the open web ✨
-
-- [kitsend.com](https://kitsend.com) — Send files instantly  
-- [kitqrcode.com](https://kitqrcode.com) — Create QR Codes  
-- [kitblog.vn](https://kitblog.vn) — Blogging platform  
-- [kitbuy.vn](https://kitbuy.vn) — Price comparison  
-- [kitpay.vn](https://kitpay.vn) — QR payment generator  
-- [kitmodule.com](https://kitmodule.com) — Modular playground  
-- [kitvoucher.com](https://kitvoucher.com) — Discount & voucher hub  
-
-
-## 📚 My Blogs
-
-- 🌐 [huynhnhanquoc.com](https://huynhnhanquoc.com) — my personal space  
-- ✍️ [Hashnode](https://huynhnhanquoc.hashnode.com)  
-- 💡 [Dev.to](https://dev.to/huynhnhanquoc)  
-- 📰 [Substack](https://huynhnhanquoc.substack.com)
+| Project | Website | Purpose |
+|----------|----------|----------|
+| 📰 **Kitblog** | [kitblog.vn](https://kitblog.vn) | Blogging platform for creators |
+| 🛍️ **Kitbuy** | [kitbuy.vn](https://kitbuy.vn) | Price comparison tool |
+| 📨 **Kitsend** | [kitsend.com](https://kitsend.com) | Instant file sharing |
+| 💳 **Kitpay** | [kitpay.vn](https://kitpay.vn) | QR payment generator |
+| 🎟️ **Kitvoucher** | [kitvoucher.com](https://kitvoucher.com) | Discounts and voucher hub |
+| 🌐 **Kitmodule** | [kitmodule.com](https://kitmodule.com) | Open-source modular ecosystem |
 
 
-## 💖 Sponsor Me
+## ✍️ Writing
 
-If you love what I do and want to support my indie journey 🌿  
-Your support helps me stay independent and keep building open source dreams.
+I write about **independent creation, software philosophy, and the beauty of small things in code**.  
+My writing blends technology with creativity and explores how developers can stay authentic in a noisy world.
 
-- ☕ [Patreon](https://www.patreon.com/huynhnhanquoc)  
-- 💛 [Ko-fi](https://ko-fi.com/huynhnhanquoc)  
-- ❤️ [Buy Me a Coffee](https://buymeacoffee.com/huynhnhanquoc)
+### 🗞️ Read My Work
+- 🌐 **Personal Blog:** [huynhnhanquoc.com](https://huynhnhanquoc.com)  
 
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://huynhnhanquoc.hashnode.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/huynhnhanquoc)
 
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
-[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/huynhnhanquoc)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/huynhnhanquoc)
-[![Threads](https://img.shields.io/badge/Threads-black.svg?style=flat&logo=threads&logoColor=white)](https://threads.com/huynhnhanquoc)
-[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/huynhnhanquoc)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@huynhnhanquoc)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@huynhnhanquoc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/huynhnhanquoc)
+> *“Writing is my way of thinking out loud and sharing what I learn in silence.”*
 
 
-### 🌙 “I’m an indie stack developer — a dreamer building my own path to technological independence.”  
-— *Huynh Nhan Quoc*
+## 💖 Support My Work
+
+If my work or writing has inspired you 🌿  
+Your support helps me stay independent and continue building open-source tools and ideas.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/huynhnhanquoc)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/huynhnhanquoc)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-f7f7f7?style=for-the-badge&logo=githubsponsors&logoColor=ff69b4&color=f7f7f7)](https://github.com/sponsors/huynhnhanquoc)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/huynhnhanquoc)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/huynhnhanquoc)
+
+
+## 🌍 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/huynhnhanquoc)
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=flat&logo=threads&logoColor=white)](https://threads.net/@huynhnhanquoc)
+[![X](https://img.shields.io/badge/Twitter-000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/huynhnhanquoc)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@huynhnhanquoc)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/huynhnhanquoc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/huynhnhanquoc)
+
+> Independent, curious, and quietly building the future, one tiny kit at a time. 🌙
