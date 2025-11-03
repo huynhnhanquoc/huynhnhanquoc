@@ -17,7 +17,7 @@ Driven by curiosity, I turn quiet ideas into clean, creative open-source project
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ORM](https://img.shields.io/badge/ORM-GORM-6C63FF?style=for-the-badge)
 ![Selfhost](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
