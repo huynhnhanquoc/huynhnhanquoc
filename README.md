@@ -49,13 +49,12 @@ Each *kit* is a small, focused project designed to be elegant, useful, and human
 
 I write about **independent creation, software philosophy, and the beauty of small things in code**.  
 My writing blends technology with creativity and explores how developers can stay authentic in a noisy world.
-
-### 🗞️ Read My Work
-- 🌐 **Personal Blog:** [huynhnhanquoc.com](https://huynhnhanquoc.com)  
-
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://huynhnhanquoc.hashnode.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/huynhnhanquoc)
+### 🗞️ Notes & Essays
+- 🇻🇳 | **Vietnamese  :**  [![Personal Blog](https://img.shields.io/badge/Personal_Blog-f82244?style=for-the-badge&logo=gitbook&logoColor=white)](https://huynhnhanquoc.com)
+-  🇺🇸 | **English  :**  [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://huynhnhanquoc.hashnode.dev)
+[![Dev.to](https://img.shields.io/badge/Dev.to-1a2032?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/huynhnhanquoc)
+[![Medium](https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@huynhnhanquoc)
 
 > *“Writing is my way of thinking out loud and sharing what I learn in silence.”*
 
@@ -74,12 +73,12 @@ Your support helps me stay independent and continue building open-source tools a
 
 ## 🌍 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/huynhnhanquoc)
-[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=flat&logo=threads&logoColor=white)](https://threads.net/@huynhnhanquoc)
-[![X](https://img.shields.io/badge/Twitter-000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/huynhnhanquoc)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@huynhnhanquoc)
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/huynhnhanquoc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/huynhnhanquoc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/huynhnhanquoc)
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@huynhnhanquoc)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@huynhnhanquoc)
+[![X](https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/huynhnhanquoc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huynhnhanquoc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huynhnhanquoc)
 
 > Independent, curious, and quietly building the future, one tiny kit at a time. 🌙
