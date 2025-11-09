@@ -1,6 +1,6 @@
-# ✨ Huynh Nhan Quoc
+# Hello world, I’m a Huỳnh Nhân Quốc
 
-Hello world, I’m a **dreamy indie-stack developer** exploring the space between **logic and aesthetics**.  
+I’m a **dreamy indie-stack developer** exploring the space between **logic and aesthetics**.  
 I build with **Golang** and **JavaScript**, crafting small, meaningful tools that are clear, modular, and self-hosted.  
 Driven by curiosity, I turn quiet ideas into clean, creative open-source projects.  
 
@@ -22,11 +22,11 @@ Each *kit* is a small, focused project designed to be elegant, useful, and human
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## ✍️ Writing
+## ✍️ Writing, Notes & Essays
 
 I write about **independent creation, software philosophy, and the beauty of small things in code**.  
 My writing blends technology with creativity and explores how developers can stay authentic in a noisy world.
-### 🗞️ Notes & Essays
+
 - 🇻🇳 | **Vietnamese  :**  [![Personal Blog](https://img.shields.io/badge/Personal_Blog-f82244?style=for-the-badge&logo=gitbook&logoColor=white)](https://huynhnhanquoc.com)
 -  🇺🇸 | **English  :**  [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://huynhnhanquoc.hashnode.dev)
