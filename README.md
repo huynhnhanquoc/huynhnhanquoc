@@ -1,4 +1,4 @@
-# Hello world, I’m a Huỳnh Nhân Quốc
+# 👋 Hello world, I’m a Huỳnh Nhân Quốc
 
 I’m a **dreamy indie-stack developer** exploring the space between **logic and aesthetics**.  
 I build with **Golang** and **JavaScript**, crafting small, meaningful tools that are clear, modular, and self-hosted.  
