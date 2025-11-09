@@ -6,6 +6,8 @@ Driven by curiosity, I turn quiet ideas into clean, creative open-source project
 
 >“I build ideas, not empires. One tiny module at a time.”
 
+[**Kit Module**](https://github.com/kitmodule) is my creative home for open-source experiments.  
+Each *kit* is a small, focused project designed to be elegant, useful, and human.
 
 ## 💻 Tech Stack
 
@@ -19,31 +21,6 @@ Driven by curiosity, I turn quiet ideas into clean, creative open-source project
 ![Selfhost](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-## 🚀 Kit Module • My Indie Lab
-
-[**Kit Module**](https://github.com/kitmodule) is my creative home for open-source experiments.  
-Each *kit* is a small, focused project designed to be elegant, useful, and human.
-
-| Project | Description |
-|----------|--------------|
-| ⚡ [Kit JS](https://github.com/kitmodule/kitjs) | Minimalist JavaScript micro-framework |
-| 📂 [Kit File](https://github.com/huynhnhanquoc/kitfile) | Tiny toolkit for file operations |
-| 🧩 [Kit Module](https://github.com/kitmodule) | Open-source playground for modular ideas |
-
-
-## 🌐 Projects
-
-| Project | Website | Purpose |
-|----------|----------|----------|
-| 📰 **Kitblog** | [kitblog.vn](https://kitblog.vn) | Blogging platform for creators |
-| 🛍️ **Kitbuy** | [kitbuy.vn](https://kitbuy.vn) | Price comparison tool |
-| 📨 **Kitsend** | [kitsend.com](https://kitsend.com) | Instant file sharing |
-| 💳 **Kitpay** | [kitpay.vn](https://kitpay.vn) | QR payment generator |
-| 🎟️ **Kitvoucher** | [kitvoucher.com](https://kitvoucher.com) | Discounts and voucher hub |
-| 🌐 **Kitmodule** | [kitmodule.com](https://kitmodule.com) | Open-source modular ecosystem |
-
 
 ## ✍️ Writing
 
