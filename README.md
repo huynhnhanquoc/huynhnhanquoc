@@ -6,7 +6,7 @@ Driven by curiosity, I turn quiet ideas into clean, creative open-source project
 
 >“I build ideas, not empires. One tiny module at a time.”
 
-[**Kit Module**](https://github.com/kitmodule) is my creative home for open-source experiments.  
+[**Kit Module**](https://github.com/kitmodule) & [**Kit Work**](https://github.com/kitwork)is my creative home for open-source experiments.  
 Each *kit* is a small, focused project designed to be elegant, useful, and human.
 
 ## 💻 Tech Stack
