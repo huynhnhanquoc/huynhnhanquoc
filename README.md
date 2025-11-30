@@ -13,14 +13,14 @@ Each *kit* is a small, focused project designed to be elegant, useful, and human
 
 > Building with clarity and simplicity. This is my toolkit for creating modular, self-hosted software.
 
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Fiber](https://img.shields.io/badge/Fiber-00A8E8.svg?style=for-the-badge&logo=fiber&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![ORM](https://img.shields.io/badge/ORM-GORM-6C63FF?style=for-the-badge)
-![Selfhost](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://huynhnhanquoc.substack.com/t/golang)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://huynhnhanquoc.substack.com/t/javascipt)
+[![Fiber](https://img.shields.io/badge/Fiber-00A8E8.svg?style=for-the-badge&logo=fiber&logoColor=white)](https://huynhnhanquoc.substack.com/t/fiber)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://huynhnhanquoc.substack.com/t/postgresql)
+[![ORM](https://img.shields.io/badge/ORM-GORM-6C63FF?style=for-the-badge)](https://huynhnhanquoc.substack.com/t/orm)
+[![Selfhost](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)](https://huynhnhanquoc.substack.com/t/selfhost)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://huynhnhanquoc.substack.com/t/ubuntu)
+[![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://huynhnhanquoc.substack.com/t/git)
 
 ## ✍️ Writing, Notes & Essays
 
