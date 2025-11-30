@@ -30,7 +30,6 @@ My writing blends technology with creativity and explores how developers can sta
 - 🇻🇳 | **Vietnamese  :**  [![Personal Blog](https://img.shields.io/badge/Personal_Blog-f82244?style=for-the-badge&logo=gitbook&logoColor=white)](https://huynhnhanquoc.com)
 -  🇺🇸 | **English  :**  [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://huynhnhanquoc.hashnode.dev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-1a2032?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/huynhnhanquoc)
 [![Medium](https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@huynhnhanquoc)
 
 > *“Writing is my way of thinking out loud and sharing what I learn in silence.”*
