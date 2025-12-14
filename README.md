@@ -57,3 +57,11 @@ Your support helps me stay independent and continue building open-source tools a
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huynhnhanquoc)
 
 > Independent, curious, and quietly building the future, one tiny kit at a time. 🌙
+
+## ☁️ Cloud Providers
+
+The cloud providers I use for self-hosting and building my projects.  
+Links below help support my work.
+
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean_|_Global-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://m.do.co/c/8361974ed862)
+[![Cloudfly](https://img.shields.io/badge/Cloudfly_|_Vietnam-ffffff?style=for-the-badge&logo=icloud&logoColor=0080FF&textColor=0080FF)](https://cloudfly.vn/?ref=39943411)
