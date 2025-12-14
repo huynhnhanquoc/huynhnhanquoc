@@ -58,8 +58,7 @@ Your support helps me stay independent and continue building open-source tools a
 
 > Independent, curious, and quietly building the future, one tiny kit at a time. 🌙
 
-## ☁️ Cloud Providers
-
+## ☁️ Cloud Stack
 The cloud providers I use for self-hosting and building my projects.  
 Links below help support my work.
 
