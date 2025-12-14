@@ -6,8 +6,11 @@ Driven by curiosity, I turn quiet ideas into clean, creative open-source project
 
 >“I build ideas, not empires. One tiny module at a time.”
 
-[**Kit Work**](https://github.com/kitwork) & [**Kit Module**](https://github.com/kitmodule) is my creative home for open-source experiments.  
-Each *kit* and *.work* is a small, focused project, designed to be elegant, useful, and human.
+[**KitWork**](https://github.com/kitwork) is where ideas become **work**.  
+It’s a way to build services from small, composable units of work, forming calm and readable systems that are meant to run.  
+Each *kit* and *.work* represents a focused unit of execution — elegant, useful, and human.
+
+[![Kit Work](https://img.shields.io/badge/KitWork_|_A_Lightweight_Work_Engine-f82244?style=for-the-badge&logo=task&logoColor=white)](https://huynhnhanquoc.com)
 
 ## 💻 Tech Stack
 
