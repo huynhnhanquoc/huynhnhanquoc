@@ -7,7 +7,7 @@ Driven by curiosity, I turn quiet ideas into clean, creative open-source project
 >“I build ideas, not empires. One tiny module at a time.”
 
 [**Kit Work**](https://github.com/kitwork) & [**Kit Module**](https://github.com/kitmodule) is my creative home for open-source experiments.  
-Each *kit* is a small, focused project designed to be elegant, useful, and human.
+Each *kit* and *.work* is a small, focused project, designed to be elegant, useful, and human.
 
 ## 💻 Tech Stack
 
@@ -18,9 +18,15 @@ Each *kit* is a small, focused project designed to be elegant, useful, and human
 [![Fiber](https://img.shields.io/badge/Fiber-00A8E8.svg?style=for-the-badge&logo=fiber&logoColor=white)](https://huynhnhanquoc.substack.com/t/fiber)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://huynhnhanquoc.substack.com/t/postgresql)
 [![ORM](https://img.shields.io/badge/ORM-GORM-6C63FF?style=for-the-badge)](https://huynhnhanquoc.substack.com/t/orm)
-[![Selfhost](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)](https://huynhnhanquoc.substack.com/t/selfhost)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://huynhnhanquoc.substack.com/t/ubuntu)
 [![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://huynhnhanquoc.substack.com/t/git)
+
+## ☁️ Cloud Stack
+> The cloud providers I use for self-hosting and building my projects. Links below help support my work.
+
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean_|_Global-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://m.do.co/c/8361974ed862)
+[![Cloudfly](https://img.shields.io/badge/Cloudfly_|_Vietnam-ffffff?style=for-the-badge&logo=icloud&logoColor=0080FF&textColor=0080FF)](https://cloudfly.vn/?ref=39943411)
+[![Selfhost](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)](https://m.do.co/c/8361974ed862)
 
 ## ✍️ Writing, Notes & Essays
 
@@ -58,9 +64,4 @@ Your support helps me stay independent and continue building open-source tools a
 
 > Independent, curious, and quietly building the future, one tiny kit at a time. 🌙
 
-## ☁️ Cloud Stack
-The cloud providers I use for self-hosting and building my projects.  
-Links below help support my work.
 
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean_|_Global-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://m.do.co/c/8361974ed862)
-[![Cloudfly](https://img.shields.io/badge/Cloudfly_|_Vietnam-ffffff?style=for-the-badge&logo=icloud&logoColor=0080FF&textColor=0080FF)](https://cloudfly.vn/?ref=39943411)
