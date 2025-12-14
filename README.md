@@ -10,7 +10,7 @@ Driven by curiosity, I turn quiet ideas into clean, creative open-source project
 It’s a way to build services from small, composable units of work, forming calm and readable systems that are meant to run.  
 Each *kit* and *.work* represents a focused unit of execution — elegant, useful, and human.
 
-[![Kit Work](https://img.shields.io/badge/KitWork_|_A_Lightweight_Work_Engine-f82244?style=for-the-badge&logo=task&logoColor=white)](https://huynhnhanquoc.com)
+[![Kit Work](https://img.shields.io/badge/KitWork_|_A_Lightweight_Work_Engine-f82244?style=for-the-badge&logo=task&logoColor=white)](https:/kitwork.io)
 
 ## 💻 Tech Stack
 
