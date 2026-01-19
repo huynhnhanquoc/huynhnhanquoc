@@ -19,8 +19,6 @@ Software becomes **intent with a lifespan**.
 
 [![KitWork](https://img.shields.io/badge/KitWork_|_Living_Logic_Engine-f82244?style=for-the-badge&logo=task&logoColor=white)](https://kitwork.io)
 
----
-
 ## 💻 Tech Stack
 
 > Building with clarity and simplicity.  
@@ -33,7 +31,6 @@ Software becomes **intent with a lifespan**.
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://huynhnhanquoc.substack.com/t/ubuntu)
 [![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://huynhnhanquoc.substack.com/t/git)
 
----
 
 ## ☁️ Cloud Stack
 
@@ -42,8 +39,6 @@ Software becomes **intent with a lifespan**.
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean_|_Global-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://m.do.co/c/8361974ed862)
 [![Cloudfly](https://img.shields.io/badge/Cloudfly_|_Vietnam-ffffff?style=for-the-badge&logo=icloud&logoColor=0080FF)](https://cloudfly.vn/?ref=39943411)
 [![Self-Hosted](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)](https://m.do.co/c/8361974ed862)
-
----
 
 ## ✍️ Writing, Notes & Essays
 
@@ -63,8 +58,6 @@ and the quiet beauty of building small, intentional systems.
 > *“Writing is how I think out loud,  
 > and leave a trace of what I’ve understood.”*
 
----
-
 ## 💖 Support My Work
 
 If my work or writing resonates with you,  
@@ -74,8 +67,6 @@ your support helps me stay independent and keep building.
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/huynhnhanquoc)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-f7f7f7?style=for-the-badge&logo=githubsponsors&logoColor=ff69b4)](https://github.com/sponsors/huynhnhanquoc)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/huynhnhanquoc)
-
----
 
 ## 🌍 Connect
 
