@@ -25,14 +25,13 @@ Software becomes **intent with a lifespan**.
 > A toolkit for creating modular, self-hosted systems.
 
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://huynhnhanquoc.substack.com/t/golang)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://huynhnhanquoc.substack.com/t/javascript)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://huynhnhanquoc.substack.com/t/postgresql)
-[![ORM](https://img.shields.io/badge/ORM-GORM-6C63FF?style=for-the-badge)](https://huynhnhanquoc.substack.com/t/orm)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://huynhnhanquoc.substack.com/t/javascript)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://huynhnhanquoc.substack.com/t/ubuntu)
 [![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://huynhnhanquoc.substack.com/t/git)
 
 
-## ☁️ Cloud Stack
+## ☁️ Cloud Recommend
 
 > Where my systems live, move, and stay independent.
 
@@ -45,15 +44,8 @@ Software becomes **intent with a lifespan**.
 I write about **independent creation**, **software philosophy**,  
 and the quiet beauty of building small, intentional systems.
 
-- 🇻🇳 **Vietnamese**  
-  [![Personal Blog](https://img.shields.io/badge/Personal_Blog-f82244?style=for-the-badge&logo=gitbook&logoColor=white)](https://huynhnhanquoc.com)
-
-- 🇺🇸 **English**  
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/huynhnhanquoc)
-  [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
-  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://huynhnhanquoc.hashnode.dev)
-  [![Medium](https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@huynhnhanquoc)
-
+  [![Personal Blog](https://img.shields.io/badge/Personal_Blog_|_Tiếng_Việt-f82244?style=for-the-badge&logo=gitbook&logoColor=white)](https://huynhnhanquoc.com)
+  [![Substack](https://img.shields.io/badge/Substack_|_English-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
 
 > *“Writing is how I think out loud,  
 > and leave a trace of what I’ve understood.”*
@@ -63,9 +55,8 @@ and the quiet beauty of building small, intentional systems.
 If my work or writing resonates with you,  
 your support helps me stay independent and keep building.
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/huynhnhanquoc)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/huynhnhanquoc)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-f7f7f7?style=for-the-badge&logo=githubsponsors&logoColor=ff69b4)](https://github.com/sponsors/huynhnhanquoc)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/huynhnhanquoc)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/huynhnhanquoc)
 
 ## 🌍 Connect
