@@ -37,7 +37,6 @@ Software becomes **intent with a lifespan**.
 
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean_|_Global-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://m.do.co/c/8361974ed862)
 [![Cloudfly](https://img.shields.io/badge/Cloudfly_|_Vietnam-ffffff?style=for-the-badge&logo=icloud&logoColor=0080FF)](https://cloudfly.vn/?ref=39943411)
-[![Self-Hosted](https://img.shields.io/badge/Self--Hosted-20232A.svg?style=for-the-badge&logo=serverless&logoColor=white)](https://m.do.co/c/8361974ed862)
 
 ## ✍️ Writing, Notes & Essays
 
