@@ -60,13 +60,13 @@ your support helps me stay independent and keep building.
 
 ## 🌍 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/huynhnhanquoc)
 [![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@huynhnhanquoc)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/huynhnhanquoc)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@huynhnhanquoc)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/huynhnhanquoc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huynhnhanquoc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huynhnhanquoc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
 
 > Independent, curious, and quietly building the future,  
 > **one unit of living logic at a time.** 🌙
