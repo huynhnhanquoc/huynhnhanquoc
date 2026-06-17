@@ -1,35 +1,37 @@
-# 👋 Hello world, I’m **Huỳnh Nhân Quốc**
+# 👋 Hi, I'm **Huỳnh Nhân Quốc**
 
-I think about **logic as something that can live**, not something that must stay.  
-I explore the space where **computation is free from place**, yet bound by intention.
+I build **runtimes and engines** — the layer where code actually runs — in **Go**
+and **plain JavaScript**. I care more about **clarity than scale**, and about
+systems small enough to **understand completely**.
 
-I work with **Golang** and **JavaScript**, building engines and runtimes that value  
-**clarity over scale**, **movement over deployment**, and **boundaries over control**.
+In early 2020 I went back to Tam Kỳ, Quảng Nam ( Đà Nẵng now ) with an old laptop and one quiet
+goal: to understand software from the inside, not just use it. I've been building
+slowly ever since — one line at a time.
 
-> “I don’t build systems that grow large.  
-> I build **logic that knows when, where, and how to exist**.”
+> “I don't try to build systems that grow large.  
+> I try to build ones I can still understand — and that know their limits.”
 
-**[KitWork](https://github.com/kitwork)** is where this thinking takes form.  
-Not a framework. Not a platform.  
-But **an execution space for living logic**.
+**[KitWork](https://github.com/kitwork)** is where that thinking takes shape.  
+Not a framework. Not a platform. A small **runtime written in Go**, with its own
+tiny language and virtual machine — **no V8, no Node, nothing borrowed underneath**.
+From a single program it runs many independent sites and services, each isolated,
+with static files served straight from disk.
 
-Logic is captured, constrained, and allowed to move.  
-Execution becomes contextual.  
-Software becomes **intent with a lifespan**.
+The language is kept deliberately **small and strict** — so code stays simple and
+predictable, safe to run within limits, and (the part I'm still exploring) able to
+**move between machines without losing trust**.
 
-[![KitWork](https://img.shields.io/badge/KitWork_|_Living_Logic_Engine-f82244?style=for-the-badge&logo=task&logoColor=white)](https://kitwork.io)
+[![KitWork](https://img.shields.io/badge/KitWork_|_Go_Bytecode_Runtime-f82244?style=for-the-badge&logo=task&logoColor=white)](https://kitwork.io)
 
 ## 💻 Tech Stack
 
-> Building with clarity and simplicity.  
-> A toolkit for creating modular, self-hosted systems.
+> Building with clarity and simplicity — a small toolkit for modular, self-hosted systems.
 
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://huynhnhanquoc.substack.com/t/golang)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://huynhnhanquoc.substack.com/t/postgresql)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://huynhnhanquoc.substack.com/t/javascript)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://huynhnhanquoc.substack.com/t/ubuntu)
 [![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://huynhnhanquoc.substack.com/t/git)
-
 
 ## ☁️ Cloud Recommend
 
@@ -41,13 +43,13 @@ Software becomes **intent with a lifespan**.
 ## ✍️ Writing, Notes & Essays
 
 I write about **independent creation**, **software philosophy**,  
-and the quiet beauty of building small, intentional systems.
+and the quiet craft of building small, intentional systems.
 
   [![Personal Blog](https://img.shields.io/badge/Personal_Blog_|_Tiếng_Việt-f82244?style=for-the-badge&logo=gitbook&logoColor=white)](https://huynhnhanquoc.com)
   [![Substack](https://img.shields.io/badge/Substack_|_English-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
 
 > *“Writing is how I think out loud,  
-> and leave a trace of what I’ve understood.”*
+> and leave a trace of what I've understood.”*
 
 ## 💖 Support My Work
 
@@ -68,5 +70,5 @@ your support helps me stay independent and keep building.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huynhnhanquoc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
 
-> Independent, curious, and quietly building the future,  
-> **one unit of living logic at a time.** 🌙
+> Independent, curious, and quietly building —  
+> **one small, understandable system at a time.** 🌙
