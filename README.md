@@ -8,7 +8,7 @@ One process. Many systems. No unnecessary complexity.
 
 Infrastructure that is small, composable, and portable.
 
-[![KitWork](https://img.shields.io/badge/KitWork-f82244?style=for-the-badge&logo=task&logoColor=white)](https://github.com/kitwork/starter)
+[![KitWork](https://img.shields.io/badge/KitWork-f82244?style=for-the-badge&logo=task&logoColor=white)](https://kitwork.io)
 [![Write](https://img.shields.io/badge/Write-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://huynhnhanquoc.substack.com)
 [![Support](https://img.shields.io/badge/Support-f7f7f7?style=for-the-badge&logo=githubsponsors&logoColor=ff69b4)](https://github.com/sponsors/huynhnhanquoc)
 
