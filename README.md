@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm **Huynh Nhan Quoc**
 
-Building **[Kitwork](https://github.com/kitwork/engine)** — an open-source Cloud Runtime Platform.
+Building **[Kitwork](https://github.com/kitwork)** — an open-source Cloud Runtime Platform.
 
 Kitwork unifies compute, networking, storage, databases, authentication, queues, and edge into a single runtime powered by its own language, bytecode, and virtual machine.
 
