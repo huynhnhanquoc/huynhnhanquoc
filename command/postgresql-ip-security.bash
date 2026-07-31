@@ -4,6 +4,9 @@ sudo apt update && sudo apt install -y postgresql postgresql-contrib && \
 # Enable and start PostgreSQL service
 sudo systemctl enable postgresql --now && \
 
+# Use SCRAM-SHA-256 for password storage (md5 has been deprecated since PG 10)
+sudo -i -u postgres psql -c "SET password_encryption = 'scram-sha-256';" && \
+
 # Change password for postgres user (replace [YOUR_PASSWORD] with your password)
 sudo -i -u postgres psql -c "ALTER USER postgres WITH ENCRYPTED PASSWORD '[YOUR_PASSWORD]';" && \
 
@@ -11,7 +14,7 @@ sudo -i -u postgres psql -c "ALTER USER postgres WITH ENCRYPTED PASSWORD '[YOUR_
 sudo sed -i "s/#listen_addresses = 'localhost'/listen_addresses = '*'/g" /etc/postgresql/*/main/postgresql.conf && \
 
 # Allow connections ONLY from your specific IP address
-echo "host all all [YOUR_IP]/32 md5" | sudo tee -a /etc/postgresql/*/main/pg_hba.conf && \
+echo "host all all [YOUR_IP]/32 scram-sha-256" | sudo tee -a /etc/postgresql/*/main/pg_hba.conf && \
 
 # Open port 5432 ONLY for your IP in the firewall
 sudo ufw allow from [YOUR_IP] to any port 5432 proto tcp && \

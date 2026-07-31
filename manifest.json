@@ -1,0 +1,105 @@
+{
+  "owner": "huynhnhanquoc",
+  "name": "Huynh Nhan Quoc",
+  "description": "Self-taught developer and solo founder in Da Nang, Vietnam. Building Kitwork, a runtime with its own JavaScript subset, bytecode compiler, and hand-written Go virtual machine.",
+  "website": "https://huynhnhanquoc.com",
+  "license": "MIT",
+  "defaultVisibility": "public",
+  "sections": [
+    {
+      "key": "concepts",
+      "title": "Concepts",
+      "description": "The ideas I had to understand while writing Kitwork, in the order I needed to learn them. Written by hand; each is also published as its own repository.",
+      "path": "concepts/README.md",
+      "reading_order": [
+        "runtime", "host", "native", "tenant",
+        "lexer", "ast", "compiler", "bytecode", "opcode", "vm",
+        "expression", "evaluate", "scope",
+        "capability", "grant", "sandbox", "isolation",
+        "servertruth", "zerovm", "capsule", "gas",
+        "router", "render", "template", "prewarm", "directive",
+        "behavior", "hydrate", "jit",
+        "blueprint"
+      ]
+    },
+    {
+      "key": "reference",
+      "title": "Reference",
+      "description": "Short lookup entries generated from a term list, not written by hand. Kept separate from the writing on purpose.",
+      "path": "reference/README.md"
+    },
+    {
+      "key": "build-in-public",
+      "title": "Build in Public",
+      "description": "Framework, templates, checklists and resources for building in public.",
+      "path": "build-in-public/README.md"
+    },
+    {
+      "key": "thinking",
+      "title": "Thinking",
+      "description": "Technical decisions I could not find explained clearly elsewhere.",
+      "items": [
+        {
+          "title": "Why Kitwork",
+          "path": "thinking/why-kitwork.md",
+          "topics": ["kitwork", "runtime", "independence"]
+        },
+        {
+          "title": "KitJS Kernel Design",
+          "path": "thinking/kitjs-kernel-design.md",
+          "topics": ["kitjs", "reactivity", "no-build-step"]
+        },
+        {
+          "title": "Zero-V8 Architecture",
+          "path": "thinking/zero-v8-architecture.md",
+          "topics": ["go-vm", "bytecode", "multi-tenancy"]
+        }
+      ]
+    },
+    {
+      "key": "ideas",
+      "title": "Ideas",
+      "description": "Unfinished arguments and experiments. Some will turn out wrong.",
+      "items": [
+        {
+          "title": "KitJS V2 Specification",
+          "path": "ideas/kitjs-v2-specification.md",
+          "topics": ["kitjs", "components", "ssr", "specification"]
+        },
+        {
+          "title": "KitJS Ideaship Kernel",
+          "path": "ideas/kitjs-ideaship-kernel.md",
+          "topics": ["kitjs", "hydration", "morph", "bridge"]
+        },
+        {
+          "title": "Logic Capsules RFC",
+          "path": "ideas/logic-capsules-rfc.md",
+          "topics": ["capsules", "gas", "grant", "rfc"]
+        }
+      ]
+    },
+    {
+      "key": "command",
+      "title": "Command",
+      "description": "Server commands and scripts I use in real work. They open a database port, so read them before running them.",
+      "items": [
+        {
+          "title": "PostgreSQL on a fresh VPS",
+          "path": "command/postgresql-fast-vps.bash"
+        },
+        {
+          "title": "PostgreSQL on a fresh VPS, short form",
+          "path": "command/postgresql-short-vps.bash"
+        },
+        {
+          "title": "PostgreSQL restricted to one IP",
+          "path": "command/postgresql-ip-security.bash"
+        },
+        {
+          "title": "PostgreSQL restricted to one IP, short form",
+          "path": "command/postgresql-short-security.bash"
+        }
+      ]
+    }
+  ]
+}
