@@ -231,14 +231,15 @@ Kitstack contained too much private business logic to release cleanly. Kitwork i
 [![Kitwork](https://img.shields.io/badge/Kitwork-04040A?style=for-the-badge&logo=go&logoColor=00ADD8)](https://kitwork.io)
 [![seoer.ai](https://img.shields.io/badge/seoer.ai-0EA5E9?style=for-the-badge&logoColor=white)](https://seoer.ai)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/huynhnhanquoc)
+
+[![X](https://img.shields.io/badge/@huynhnhanquoc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/huynhnhanquoc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huynhnhanquoc)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/huynhnhanquoc)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@huynhnhanquoc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huynhnhanquoc)
 [![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@huynhnhanquoc)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@huynhnhanquoc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huynhnhanquoc)
 
 ## Support
 
