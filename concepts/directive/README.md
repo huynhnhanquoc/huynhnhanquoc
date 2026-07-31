@@ -184,9 +184,8 @@ Not always. Directives and components solve different sizes of problem.
 
 ## Related Concepts
 
-Previous: [evaluate](https://github.com/huynhnhanquoc/evaluate)
+Previous: [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm)
 
-Next: [behavior](https://github.com/huynhnhanquoc/behavior)
+Next: [behavior](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/behavior)
 
-Related: [expression](https://github.com/huynhnhanquoc/expression), [hydrate](https://github.com/huynhnhanquoc/hydrate), [blueprint](https://github.com/huynhnhanquoc/blueprint)
-
+Related: [expression](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/expression), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate), [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint)

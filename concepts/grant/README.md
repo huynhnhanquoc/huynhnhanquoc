@@ -170,9 +170,8 @@ Simple apps can start there. Larger runtimes benefit from explicit grants.
 
 ## Related Concepts
 
-Previous: [gas](https://github.com/huynhnhanquoc/gas)
+Previous: [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability)
 
-Next: [host](https://github.com/huynhnhanquoc/host)
+Next: [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox)
 
-Related: [capability](https://github.com/huynhnhanquoc/capability), [capsule](https://github.com/huynhnhanquoc/capsule), [sandbox](https://github.com/huynhnhanquoc/sandbox)
-
+Related: [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability), [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule), [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox)

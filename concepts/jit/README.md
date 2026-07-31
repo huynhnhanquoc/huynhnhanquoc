@@ -219,9 +219,8 @@ input -> scan -> generate -> cache -> deliver
 
 ## Related Concepts
 
-Previous: [hydrate](https://github.com/huynhnhanquoc/hydrate)
+Previous: [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate)
 
-Next: [blueprint](https://github.com/huynhnhanquoc/blueprint)
+Next: [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint)
 
-Related: [behavior](https://github.com/huynhnhanquoc/behavior), [render](https://github.com/huynhnhanquoc/render), [prewarm](https://github.com/huynhnhanquoc/prewarm)
-
+Related: [behavior](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/behavior), [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render), [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm)

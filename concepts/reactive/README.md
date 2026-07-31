@@ -215,9 +215,4 @@ No. You can keep the idea and change the surface.
 
 ## Related Concepts
 
-Previous: [behavior](https://github.com/huynhnhanquoc/behavior)
-
-Next: [hydrate](https://github.com/huynhnhanquoc/hydrate)
-
-Related: [expression](https://github.com/huynhnhanquoc/expression), [evaluate](https://github.com/huynhnhanquoc/evaluate), [servertruth](https://github.com/huynhnhanquoc/servertruth)
-
+Related: [expression](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/expression), [evaluate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/evaluate), [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth)

@@ -1,4 +1,4 @@
-﻿# ast
+# ast
 
 A beginner-friendly guide to understanding ASTs: the tree-shaped form that helps
 tools and compilers understand source code.
@@ -290,9 +290,8 @@ compiled before runtime behavior happens.
 
 ## Related Concepts
 
-Previous: [lexer](https://github.com/huynhnhanquoc/lexer)
+Previous: [lexer](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/lexer)
 
-Next: [compiler](https://github.com/huynhnhanquoc/compiler)
+Next: [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler)
 
-Related: [bytecode](https://github.com/huynhnhanquoc/bytecode), [opcode](https://github.com/huynhnhanquoc/opcode), [vm](https://github.com/huynhnhanquoc/vm)
-
+Related: [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode), [opcode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/opcode), [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm)

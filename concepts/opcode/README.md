@@ -1,4 +1,4 @@
-﻿# opcode
+# opcode
 
 A beginner-friendly guide to understanding opcodes: the verbs inside bytecode
 instructions.
@@ -318,9 +318,8 @@ contract.
 
 ## Related Concepts
 
-Previous: [bytecode](https://github.com/huynhnhanquoc/bytecode)
+Previous: [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode)
 
-Next: [vm](https://github.com/huynhnhanquoc/vm)
+Next: [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm)
 
-Related: [compiler](https://github.com/huynhnhanquoc/compiler), [runtime](https://github.com/huynhnhanquoc/runtime), [gas](https://github.com/huynhnhanquoc/gas)
-
+Related: [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler), [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [gas](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/gas)

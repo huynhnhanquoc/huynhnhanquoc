@@ -252,9 +252,8 @@ hydration.
 
 ## Related Concepts
 
-Previous: [reactive](https://github.com/huynhnhanquoc/reactive)
+Previous: [behavior](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/behavior)
 
-Next: [jit](https://github.com/huynhnhanquoc/jit)
+Next: [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit)
 
-Related: [directive](https://github.com/huynhnhanquoc/directive), [servertruth](https://github.com/huynhnhanquoc/servertruth), [blueprint](https://github.com/huynhnhanquoc/blueprint)
-
+Related: [directive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/directive), [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth), [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint)

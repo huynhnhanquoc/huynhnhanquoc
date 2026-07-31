@@ -1,4 +1,4 @@
-﻿# isolation
+# isolation
 
 A beginner-friendly guide to understanding isolation: the practice of keeping
 different pieces of code, data, users, or tenants from interfering with each
@@ -234,9 +234,8 @@ forms of isolation.
 
 ## Related Concepts
 
-Previous: [sandbox](https://github.com/huynhnhanquoc/sandbox)
+Previous: [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox)
 
-Next: [gas](https://github.com/huynhnhanquoc/gas)
+Next: [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth)
 
-Related: [tenant](https://github.com/huynhnhanquoc/tenant), [scope](https://github.com/huynhnhanquoc/scope), [zerovm](https://github.com/huynhnhanquoc/zerovm)
-
+Related: [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant), [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope), [zerovm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/zerovm)

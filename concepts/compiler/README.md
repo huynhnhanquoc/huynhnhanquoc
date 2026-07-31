@@ -1,4 +1,4 @@
-﻿# compiler
+# compiler
 
 A beginner-friendly guide to understanding compilers: the stage that turns code
 from one form into another so another system can run it, check it, or understand
@@ -279,9 +279,8 @@ custom runtime, or a clear execution boundary.
 
 ## Related Concepts
 
-Previous: [ast](https://github.com/huynhnhanquoc/ast)
+Previous: [ast](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/ast)
 
-Next: [bytecode](https://github.com/huynhnhanquoc/bytecode)
+Next: [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode)
 
-Related: [lexer](https://github.com/huynhnhanquoc/lexer), [runtime](https://github.com/huynhnhanquoc/runtime), [native](https://github.com/huynhnhanquoc/native)
-
+Related: [lexer](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/lexer), [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [native](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/native)

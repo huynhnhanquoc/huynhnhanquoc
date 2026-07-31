@@ -1,4 +1,4 @@
-﻿# zerovm
+# zerovm
 
 A beginner-friendly guide to understanding Zero-VM paths: the idea that some
 requests should not enter a virtual machine or runtime at all.
@@ -221,9 +221,8 @@ Not always. A direct path can be cleaner when no logic is needed.
 
 ## Related Concepts
 
-Previous: [servertruth](https://github.com/huynhnhanquoc/servertruth)
+Previous: [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth)
 
-Next: [host](https://github.com/huynhnhanquoc/host)
+Next: [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule)
 
-Related: [router](https://github.com/huynhnhanquoc/router), [render](https://github.com/huynhnhanquoc/render), [prewarm](https://github.com/huynhnhanquoc/prewarm)
-
+Related: [router](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/router), [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render), [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm)

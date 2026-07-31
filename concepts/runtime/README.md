@@ -1,4 +1,4 @@
-﻿# runtime
+# runtime
 
 A beginner-friendly guide to understanding what a runtime is, why it exists, and
 why it matters when you build real software.
@@ -451,9 +451,6 @@ A larger runtime is useful when the program needs a larger world.
 
 ## Related Concepts
 
-Previous: [buildinpublic](https://github.com/huynhnhanquoc/buildinpublic)
+Next: [host](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/host)
 
-Next: [host](https://github.com/huynhnhanquoc/host)
-
-Related: [tenant](https://github.com/huynhnhanquoc/tenant), [vm](https://github.com/huynhnhanquoc/vm), [capability](https://github.com/huynhnhanquoc/capability)
-
+Related: [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant), [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm), [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability)

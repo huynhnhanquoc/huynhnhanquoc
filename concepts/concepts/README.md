@@ -33,10 +33,10 @@ I publish concepts I had to understand while building Kitwork.
 
 If you are new, start with these:
 
-1. [buildinpublic](https://github.com/huynhnhanquoc/buildinpublic)
-2. [runtime](https://github.com/huynhnhanquoc/runtime)
-3. [tenant](https://github.com/huynhnhanquoc/tenant)
-4. [concepts](https://github.com/huynhnhanquoc/concepts)
+1. [buildinpublic](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/buildinpublic)
+2. [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime)
+3. [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant)
+4. [concepts](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/concepts)
 
 `buildinpublic` explains the publishing style.
 
@@ -81,12 +81,12 @@ This path explains how source code becomes something a runtime can execute.
 
 Read in this order:
 
-1. [lexer](https://github.com/huynhnhanquoc/lexer)
-2. [ast](https://github.com/huynhnhanquoc/ast)
-3. [compiler](https://github.com/huynhnhanquoc/compiler)
-4. [bytecode](https://github.com/huynhnhanquoc/bytecode)
-5. [opcode](https://github.com/huynhnhanquoc/opcode)
-6. [vm](https://github.com/huynhnhanquoc/vm)
+1. [lexer](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/lexer)
+2. [ast](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/ast)
+3. [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler)
+4. [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode)
+5. [opcode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/opcode)
+6. [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm)
 
 The simple path:
 
@@ -100,11 +100,11 @@ This path explains where code lives and what world surrounds it.
 
 Read in this order:
 
-1. [runtime](https://github.com/huynhnhanquoc/runtime)
-2. [host](https://github.com/huynhnhanquoc/host)
-3. [native](https://github.com/huynhnhanquoc/native)
-4. [tenant](https://github.com/huynhnhanquoc/tenant)
-5. [prewarm](https://github.com/huynhnhanquoc/prewarm)
+1. [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime)
+2. [host](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/host)
+3. [native](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/native)
+4. [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant)
+5. [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm)
 
 The simple question:
 
@@ -119,13 +119,13 @@ separate.
 
 Read in this order:
 
-1. [scope](https://github.com/huynhnhanquoc/scope)
-2. [capability](https://github.com/huynhnhanquoc/capability)
-3. [grant](https://github.com/huynhnhanquoc/grant)
-4. [sandbox](https://github.com/huynhnhanquoc/sandbox)
-5. [isolation](https://github.com/huynhnhanquoc/isolation)
-6. [gas](https://github.com/huynhnhanquoc/gas)
-7. [capsule](https://github.com/huynhnhanquoc/capsule)
+1. [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope)
+2. [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability)
+3. [grant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/grant)
+4. [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox)
+5. [isolation](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/isolation)
+6. [gas](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/gas)
+7. [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule)
 
 The simple question:
 
@@ -140,14 +140,14 @@ a large client app.
 
 Read in this order:
 
-1. [expression](https://github.com/huynhnhanquoc/expression)
-2. [evaluate](https://github.com/huynhnhanquoc/evaluate)
-3. [directive](https://github.com/huynhnhanquoc/directive)
-4. [behavior](https://github.com/huynhnhanquoc/behavior)
-5. [reactive](https://github.com/huynhnhanquoc/reactive)
-6. [hydrate](https://github.com/huynhnhanquoc/hydrate)
-7. [jit](https://github.com/huynhnhanquoc/jit)
-8. [blueprint](https://github.com/huynhnhanquoc/blueprint)
+1. [expression](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/expression)
+2. [evaluate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/evaluate)
+3. [directive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/directive)
+4. [behavior](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/behavior)
+5. [reactive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/reactive)
+6. [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate)
+7. [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit)
+8. [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint)
 
 The simple path:
 
@@ -161,11 +161,11 @@ This path explains how a web request becomes a response.
 
 Read in this order:
 
-1. [router](https://github.com/huynhnhanquoc/router)
-2. [render](https://github.com/huynhnhanquoc/render)
-3. [template](https://github.com/huynhnhanquoc/template)
-4. [servertruth](https://github.com/huynhnhanquoc/servertruth)
-5. [zerovm](https://github.com/huynhnhanquoc/zerovm)
+1. [router](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/router)
+2. [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render)
+3. [template](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/template)
+4. [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth)
+5. [zerovm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/zerovm)
 
 The simple path:
 
@@ -177,14 +177,14 @@ request -> route -> render -> HTML -> hydrate or deliver
 
 Recently added:
 
-- [host](https://github.com/huynhnhanquoc/host)
-- [native](https://github.com/huynhnhanquoc/native)
-- [router](https://github.com/huynhnhanquoc/router)
-- [render](https://github.com/huynhnhanquoc/render)
-- [template](https://github.com/huynhnhanquoc/template)
-- [prewarm](https://github.com/huynhnhanquoc/prewarm)
-- [gas](https://github.com/huynhnhanquoc/gas)
-- [grant](https://github.com/huynhnhanquoc/grant)
+- [host](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/host)
+- [native](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/native)
+- [router](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/router)
+- [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render)
+- [template](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/template)
+- [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm)
+- [gas](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/gas)
+- [grant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/grant)
 
 ## How These Notes Are Written
 
@@ -240,8 +240,8 @@ The list will grow as the work grows.
 
 ## Related Concepts
 
-Start: [buildinpublic](https://github.com/huynhnhanquoc/buildinpublic)
+Start: [buildinpublic](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/buildinpublic)
 
-Core: [runtime](https://github.com/huynhnhanquoc/runtime), [host](https://github.com/huynhnhanquoc/host), [tenant](https://github.com/huynhnhanquoc/tenant)
+Core: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [host](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/host), [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant)
 
-Paths: [compiler](https://github.com/huynhnhanquoc/compiler), [hydrate](https://github.com/huynhnhanquoc/hydrate), [sandbox](https://github.com/huynhnhanquoc/sandbox), [router](https://github.com/huynhnhanquoc/router)
+Paths: [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate), [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox), [router](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/router)

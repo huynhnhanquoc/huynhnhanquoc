@@ -220,9 +220,6 @@ No. A good blueprint creates separate instances.
 
 ## Related Concepts
 
-Previous: [jit](https://github.com/huynhnhanquoc/jit)
+Previous: [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit)
 
-Next: [expression](https://github.com/huynhnhanquoc/expression)
-
-Related: [template](https://github.com/huynhnhanquoc/template), [scope](https://github.com/huynhnhanquoc/scope), [hydrate](https://github.com/huynhnhanquoc/hydrate)
-
+Related: [template](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/template), [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate)

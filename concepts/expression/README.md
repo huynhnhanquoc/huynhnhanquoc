@@ -207,9 +207,8 @@ They are still logic. The difference is size, scope, and boundary.
 
 ## Related Concepts
 
-Previous: [blueprint](https://github.com/huynhnhanquoc/blueprint)
+Previous: [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm)
 
-Next: [evaluate](https://github.com/huynhnhanquoc/evaluate)
+Next: [evaluate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/evaluate)
 
-Related: [scope](https://github.com/huynhnhanquoc/scope), [directive](https://github.com/huynhnhanquoc/directive), [hydrate](https://github.com/huynhnhanquoc/hydrate)
-
+Related: [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope), [directive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/directive), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate)

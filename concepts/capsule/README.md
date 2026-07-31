@@ -1,4 +1,4 @@
-﻿# capsule
+# capsule
 
 A beginner-friendly guide to understanding logic capsules: small pieces of intent
 that can be sent to a runtime, checked, limited, and executed inside a sandbox.
@@ -220,9 +220,8 @@ constraints.
 
 ## Related Concepts
 
-Previous: [gas](https://github.com/huynhnhanquoc/gas)
+Previous: [zerovm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/zerovm)
 
-Next: [servertruth](https://github.com/huynhnhanquoc/servertruth)
+Next: [gas](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/gas)
 
-Related: [grant](https://github.com/huynhnhanquoc/grant), [sandbox](https://github.com/huynhnhanquoc/sandbox), [capability](https://github.com/huynhnhanquoc/capability)
-
+Related: [grant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/grant), [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox), [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability)

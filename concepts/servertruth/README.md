@@ -1,4 +1,4 @@
-﻿# servertruth
+# servertruth
 
 A beginner-friendly guide to understanding server truth: the idea that the server
 should own authoritative data, while the client presents and interacts with it.
@@ -217,9 +217,8 @@ HTML response.
 
 ## Related Concepts
 
-Previous: [capsule](https://github.com/huynhnhanquoc/capsule)
+Previous: [isolation](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/isolation)
 
-Next: [zerovm](https://github.com/huynhnhanquoc/zerovm)
+Next: [zerovm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/zerovm)
 
-Related: [render](https://github.com/huynhnhanquoc/render), [hydrate](https://github.com/huynhnhanquoc/hydrate), [template](https://github.com/huynhnhanquoc/template)
-
+Related: [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate), [template](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/template)

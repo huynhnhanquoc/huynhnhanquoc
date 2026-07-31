@@ -164,9 +164,8 @@ No. Prewarm often fills caches. It does not replace them.
 
 ## Related Concepts
 
-Previous: [template](https://github.com/huynhnhanquoc/template)
+Previous: [template](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/template)
 
-Next: [gas](https://github.com/huynhnhanquoc/gas)
+Next: [directive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/directive)
 
-Related: [runtime](https://github.com/huynhnhanquoc/runtime), [bytecode](https://github.com/huynhnhanquoc/bytecode), [jit](https://github.com/huynhnhanquoc/jit)
-
+Related: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode), [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit)

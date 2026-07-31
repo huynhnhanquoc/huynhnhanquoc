@@ -1,4 +1,4 @@
-﻿# lexer
+# lexer
 
 A beginner-friendly guide to understanding lexers: the first stage that turns raw
 source text into meaningful pieces.
@@ -289,9 +289,8 @@ Tokens usually carry type, value, and position. That extra information matters.
 
 ## Related Concepts
 
-Previous: [vm](https://github.com/huynhnhanquoc/vm)
+Previous: [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant)
 
-Next: [ast](https://github.com/huynhnhanquoc/ast)
+Next: [ast](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/ast)
 
-Related: [compiler](https://github.com/huynhnhanquoc/compiler), [bytecode](https://github.com/huynhnhanquoc/bytecode), [runtime](https://github.com/huynhnhanquoc/runtime)
-
+Related: [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler), [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode), [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime)

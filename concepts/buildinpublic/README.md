@@ -1,4 +1,4 @@
-﻿# buildinpublic
+# buildinpublic
 
 A beginner-friendly guide to sharing what you are building while you are building
 it.
@@ -490,7 +490,4 @@ personal enough to remember
 
 ## Related Concepts
 
-Next: [concepts](https://github.com/huynhnhanquoc/concepts)
-
-Related: [runtime](https://github.com/huynhnhanquoc/runtime), [servertruth](https://github.com/huynhnhanquoc/servertruth), [jit](https://github.com/huynhnhanquoc/jit)
-
+Related: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth), [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit)

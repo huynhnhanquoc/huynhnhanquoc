@@ -175,9 +175,8 @@ No. Rendering creates HTML. Hydration attaches behavior.
 
 ## Related Concepts
 
-Previous: [router](https://github.com/huynhnhanquoc/router)
+Previous: [router](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/router)
 
-Next: [template](https://github.com/huynhnhanquoc/template)
+Next: [template](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/template)
 
-Related: [servertruth](https://github.com/huynhnhanquoc/servertruth), [hydrate](https://github.com/huynhnhanquoc/hydrate), [jit](https://github.com/huynhnhanquoc/jit)
-
+Related: [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate), [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit)

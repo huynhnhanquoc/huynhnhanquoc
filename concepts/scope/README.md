@@ -1,4 +1,4 @@
-﻿# scope
+# scope
 
 A beginner-friendly guide to understanding scope: where names live, how values
 are found, and why boundaries matter in programming and UI runtimes.
@@ -190,9 +190,8 @@ state. The rules must be clear.
 
 ## Related Concepts
 
-Previous: [tenant](https://github.com/huynhnhanquoc/tenant)
+Previous: [evaluate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/evaluate)
 
-Next: [capability](https://github.com/huynhnhanquoc/capability)
+Next: [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability)
 
-Related: [expression](https://github.com/huynhnhanquoc/expression), [isolation](https://github.com/huynhnhanquoc/isolation), [blueprint](https://github.com/huynhnhanquoc/blueprint)
-
+Related: [expression](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/expression), [isolation](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/isolation), [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint)

@@ -172,9 +172,8 @@ runtime contract.
 
 ## Related Concepts
 
-Previous: [host](https://github.com/huynhnhanquoc/host)
+Previous: [host](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/host)
 
-Next: [router](https://github.com/huynhnhanquoc/router)
+Next: [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant)
 
-Related: [runtime](https://github.com/huynhnhanquoc/runtime), [capability](https://github.com/huynhnhanquoc/capability), [compiler](https://github.com/huynhnhanquoc/compiler)
-
+Related: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability), [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler)

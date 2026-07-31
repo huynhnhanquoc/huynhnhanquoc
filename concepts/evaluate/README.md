@@ -188,9 +188,8 @@ Literal math may not need much scope. Names like `price * quantity` do.
 
 ## Related Concepts
 
-Previous: [expression](https://github.com/huynhnhanquoc/expression)
+Previous: [expression](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/expression)
 
-Next: [directive](https://github.com/huynhnhanquoc/directive)
+Next: [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope)
 
-Related: [scope](https://github.com/huynhnhanquoc/scope), [reactive](https://github.com/huynhnhanquoc/reactive), [hydrate](https://github.com/huynhnhanquoc/hydrate)
-
+Related: [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope), [reactive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/reactive), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate)

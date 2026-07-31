@@ -1,4 +1,4 @@
-﻿# vm
+# vm
 
 A beginner-friendly guide to understanding virtual machines in software: small
 software machines that execute instructions inside a controlled world.
@@ -312,9 +312,8 @@ matching behavior.
 
 ## Related Concepts
 
-Previous: [opcode](https://github.com/huynhnhanquoc/opcode)
+Previous: [opcode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/opcode)
 
-Next: [runtime](https://github.com/huynhnhanquoc/runtime)
+Next: [expression](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/expression)
 
-Related: [bytecode](https://github.com/huynhnhanquoc/bytecode), [host](https://github.com/huynhnhanquoc/host), [sandbox](https://github.com/huynhnhanquoc/sandbox)
-
+Related: [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode), [host](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/host), [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox)

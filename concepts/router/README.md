@@ -188,9 +188,8 @@ pure pages.
 
 ## Related Concepts
 
-Previous: [native](https://github.com/huynhnhanquoc/native)
+Previous: [gas](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/gas)
 
-Next: [render](https://github.com/huynhnhanquoc/render)
+Next: [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render)
 
-Related: [runtime](https://github.com/huynhnhanquoc/runtime), [zerovm](https://github.com/huynhnhanquoc/zerovm), [servertruth](https://github.com/huynhnhanquoc/servertruth)
-
+Related: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [zerovm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/zerovm), [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth)

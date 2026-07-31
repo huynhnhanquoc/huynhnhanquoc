@@ -1,4 +1,4 @@
-﻿# bytecode
+# bytecode
 
 A beginner-friendly guide to understanding bytecode: the instruction format that
 often sits between source code and runtime behavior.
@@ -302,9 +302,8 @@ turn human-friendly source into executor-friendly instructions
 
 ## Related Concepts
 
-Previous: [compiler](https://github.com/huynhnhanquoc/compiler)
+Previous: [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler)
 
-Next: [opcode](https://github.com/huynhnhanquoc/opcode)
+Next: [opcode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/opcode)
 
-Related: [vm](https://github.com/huynhnhanquoc/vm), [runtime](https://github.com/huynhnhanquoc/runtime), [prewarm](https://github.com/huynhnhanquoc/prewarm)
-
+Related: [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm), [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm)

@@ -168,9 +168,8 @@ sandboxing.
 
 ## Related Concepts
 
-Previous: [prewarm](https://github.com/huynhnhanquoc/prewarm)
+Previous: [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule)
 
-Next: [grant](https://github.com/huynhnhanquoc/grant)
+Next: [router](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/router)
 
-Related: [capsule](https://github.com/huynhnhanquoc/capsule), [sandbox](https://github.com/huynhnhanquoc/sandbox), [capability](https://github.com/huynhnhanquoc/capability)
-
+Related: [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule), [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox), [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability)

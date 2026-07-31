@@ -179,9 +179,8 @@ No. Host APIs define authority and boundary.
 
 ## Related Concepts
 
-Previous: [grant](https://github.com/huynhnhanquoc/grant)
+Previous: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime)
 
-Next: [native](https://github.com/huynhnhanquoc/native)
+Next: [native](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/native)
 
-Related: [runtime](https://github.com/huynhnhanquoc/runtime), [capability](https://github.com/huynhnhanquoc/capability), [vm](https://github.com/huynhnhanquoc/vm)
-
+Related: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability), [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm)

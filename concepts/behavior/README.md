@@ -195,9 +195,8 @@ No. A verb can be enough for stateless or simple interactions.
 
 ## Related Concepts
 
-Previous: [directive](https://github.com/huynhnhanquoc/directive)
+Previous: [directive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/directive)
 
-Next: [reactive](https://github.com/huynhnhanquoc/reactive)
+Next: [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate)
 
-Related: [jit](https://github.com/huynhnhanquoc/jit), [hydrate](https://github.com/huynhnhanquoc/hydrate), [blueprint](https://github.com/huynhnhanquoc/blueprint)
-
+Related: [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate), [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint)

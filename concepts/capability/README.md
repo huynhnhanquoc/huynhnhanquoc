@@ -1,4 +1,4 @@
-﻿# capability
+# capability
 
 A beginner-friendly guide to understanding capabilities in software: what they
 are, why they matter, and how they help control what code is allowed to do.
@@ -189,9 +189,8 @@ Security is one use. Capabilities also make systems clearer and easier to test.
 
 ## Related Concepts
 
-Previous: [scope](https://github.com/huynhnhanquoc/scope)
+Previous: [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope)
 
-Next: [grant](https://github.com/huynhnhanquoc/grant)
+Next: [grant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/grant)
 
-Related: [sandbox](https://github.com/huynhnhanquoc/sandbox), [capsule](https://github.com/huynhnhanquoc/capsule), [runtime](https://github.com/huynhnhanquoc/runtime)
-
+Related: [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox), [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule), [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime)

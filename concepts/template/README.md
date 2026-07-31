@@ -187,9 +187,8 @@ They overlap, but template is usually shape. Blueprint is instance plan.
 
 ## Related Concepts
 
-Previous: [render](https://github.com/huynhnhanquoc/render)
+Previous: [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render)
 
-Next: [prewarm](https://github.com/huynhnhanquoc/prewarm)
+Next: [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm)
 
-Related: [blueprint](https://github.com/huynhnhanquoc/blueprint), [hydrate](https://github.com/huynhnhanquoc/hydrate), [servertruth](https://github.com/huynhnhanquoc/servertruth)
-
+Related: [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint), [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate), [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth)

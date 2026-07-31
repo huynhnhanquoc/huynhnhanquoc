@@ -1,4 +1,4 @@
-﻿# tenant
+# tenant
 
 A beginner-friendly guide to understanding tenants in software systems: what they
 are, why they matter, and how they change runtime design.
@@ -159,9 +159,8 @@ that.
 
 ## Related Concepts
 
-Previous: [native](https://github.com/huynhnhanquoc/native)
+Previous: [native](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/native)
 
-Next: [scope](https://github.com/huynhnhanquoc/scope)
+Next: [lexer](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/lexer)
 
-Related: [runtime](https://github.com/huynhnhanquoc/runtime), [isolation](https://github.com/huynhnhanquoc/isolation), [capability](https://github.com/huynhnhanquoc/capability)
-
+Related: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime), [isolation](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/isolation), [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability)

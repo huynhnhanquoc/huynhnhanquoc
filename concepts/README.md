@@ -48,7 +48,7 @@ Isolation is not a feature you add later.
 
 - [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability): holding the right to do a thing
 - [grant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/grant): someone had to give it to you
-- [sandbox](https://github.com/huynhnhanquoc/sandbox): a boundary around untrusted logic
+- [sandbox](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/sandbox): a boundary around untrusted logic
 - [isolation](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/isolation): one tenant cannot reach another
 
 ## Where truth lives
@@ -77,32 +77,32 @@ The same questions, at the other end of the wire.
 - [behavior](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/behavior): what a thing does, not what it is
 - [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate): giving a rendered page its behavior back
 - [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit): generating only what this page used
-- [reactive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/reactive): an interface that updates when state changes
 
 ## The plan
 
 - [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint): a plan that makes separate instances
 
+Thirty notes, in one line, from `runtime` to `blueprint`.
+
+Each note carries a `Previous` and a `Next`, so you can walk the whole path
+without coming back here.
+
 ## Outside the path
 
-Notes I wrote about the writing itself, rather than the runtime.
+Written the same way, but not part of the sequence.
 
+- [reactive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/reactive): an interface that updates when state changes
 - [concepts](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/concepts): why I publish these notes at all
 - [buildinpublic](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/buildinpublic): sharing what you build while you build it
 - [inpublic](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/inpublic): a philosophy for creating openly
 
-## Two notes on what is missing
+## One note still missing
 
-`sandbox` above links out. Its written version lives in its own repository; the
-copy that used to sit here was generated, and it is now in
-[reference](../reference/README.md).
+`runtime-js` belongs in the path, between `behavior` and `hydrate`.
 
-`runtime-js` is part of the path but is not written yet.
+It is not written yet.
 
 ## Elsewhere
 
-Each note here is also its own repository under
-[github.com/huynhnhanquoc](https://github.com/huynhnhanquoc).
-
-They are published in reading order at
+These notes are published in reading order at
 [huynhnhanquoc.com/concepts](https://huynhnhanquoc.com/concepts).
