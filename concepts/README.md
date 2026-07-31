@@ -18,78 +18,78 @@ the order is part of the lesson
 
 Where code is given a world to run in.
 
-- [runtime](./runtime/README.md) — the place that gives code memory, values, and limits
-- [host](./host/README.md) — the process that owns the machine
-- [native](./native/README.md) — what the host does itself
-- [tenant](./tenant/README.md) — one folder, one boundary
+- [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime): the place that gives code memory, values, and limits
+- [host](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/host): the process that owns the machine
+- [native](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/native): what the host does itself
+- [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant): one folder, one boundary
 
 ## Reading and compiling
 
 Turning text into something a machine can hold.
 
-- [lexer](./lexer/README.md) — characters become tokens
-- [ast](./ast/README.md) — tokens become shape
-- [compiler](./compiler/README.md) — shape becomes instructions
-- [bytecode](./bytecode/README.md) — instructions small enough to store
-- [opcode](./opcode/README.md) — one instruction, one job
-- [vm](./vm/README.md) — a machine made of software
+- [lexer](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/lexer): characters become tokens
+- [ast](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/ast): tokens become shape
+- [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler): shape becomes instructions
+- [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode): instructions small enough to store
+- [opcode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/opcode): one instruction, one job
+- [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm): a machine made of software
 
 ## What the language means
 
 The part I skipped, then debugged for a week.
 
-- [expression](./expression/README.md) — code that produces a value
-- [evaluate](./evaluate/README.md) — the moment a value appears
-- [scope](./scope/README.md) — which names are visible from where
+- [expression](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/expression): code that produces a value
+- [evaluate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/evaluate): the moment a value appears
+- [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope): which names are visible from where
 
 ## Permission to run
 
 Isolation is not a feature you add later.
 
-- [capability](./capability/README.md) — holding the right to do a thing
-- [grant](./grant/README.md) — someone had to give it to you
-- [sandbox](https://github.com/huynhnhanquoc/sandbox) — a boundary around untrusted logic
-- [isolation](./isolation/README.md) — one tenant cannot reach another
+- [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability): holding the right to do a thing
+- [grant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/grant): someone had to give it to you
+- [sandbox](https://github.com/huynhnhanquoc/sandbox): a boundary around untrusted logic
+- [isolation](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/isolation): one tenant cannot reach another
 
 ## Where truth lives
 
 What the server keeps, and what it never runs.
 
-- [servertruth](./servertruth/README.md) — the client may ask, the server decides
-- [zerovm](./zerovm/README.md) — not every request needs code execution
-- [capsule](./capsule/README.md) — logic that travels and still runs under a limit
-- [gas](./gas/README.md) — every step costs, so nothing runs forever
+- [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth): the client may ask, the server decides
+- [zerovm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/zerovm): not every request needs code execution
+- [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule): logic that travels and still runs under a limit
+- [gas](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/gas): every step costs, so nothing runs forever
 
 ## Answering a request
 
 From a URL to bytes on a wire.
 
-- [router](./router/README.md) — choosing who answers
-- [render](./render/README.md) — turning state into a page
-- [template](./template/README.md) — a page with holes left for data
-- [prewarm](./prewarm/README.md) — paying the cost before the first visitor
-- [directive](./directive/README.md) — markup that asks for behavior
+- [router](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/router): choosing who answers
+- [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render): turning state into a page
+- [template](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/template): a page with holes left for data
+- [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm): paying the cost before the first visitor
+- [directive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/directive): markup that asks for behavior
 
 ## The browser side
 
 The same questions, at the other end of the wire.
 
-- [behavior](./behavior/README.md) — what a thing does, not what it is
-- [hydrate](./hydrate/README.md) — giving a rendered page its behavior back
-- [jit](./jit/README.md) — generating only what this page used
-- [reactive](./reactive/README.md) — an interface that updates when state changes
+- [behavior](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/behavior): what a thing does, not what it is
+- [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate): giving a rendered page its behavior back
+- [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit): generating only what this page used
+- [reactive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/reactive): an interface that updates when state changes
 
 ## The plan
 
-- [blueprint](./blueprint/README.md) — a plan that makes separate instances
+- [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint): a plan that makes separate instances
 
 ## Outside the path
 
 Notes I wrote about the writing itself, rather than the runtime.
 
-- [concepts](./concepts/README.md) — why I publish these notes at all
-- [buildinpublic](./buildinpublic/README.md) — sharing what you build while you build it
-- [inpublic](./inpublic/README.md) — a philosophy for creating openly
+- [concepts](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/concepts): why I publish these notes at all
+- [buildinpublic](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/buildinpublic): sharing what you build while you build it
+- [inpublic](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/inpublic): a philosophy for creating openly
 
 ## Two notes on what is missing
 

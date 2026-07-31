@@ -16,12 +16,12 @@ Today, I am using that foundation to build [seoer.ai](https://seoer.ai/) and exp
 
 ## Start Here
 
-* ⚙️ [Kitwork](https://kitwork.io/) — deploy a folder, get an isolated application
-* 🔎 [seoer.ai](https://seoer.ai/) — an AI SEO engineer designed to work continuously
-* 🧩 [KitJS](https://kitjs.org/) — plain HTML with a few friendly attributes
-* 📚 [Concepts](https://huynhnhanquoc.com/concepts) — the ideas I had to understand while writing a runtime
-* 📗 [Build in Public Guide](https://buildinpublic.guide/) — share unfinished work without turning life into content
-* 🏠 [huynhnhanquoc.com](https://huynhnhanquoc.com/) — my work, writing, and full story
+* ⚙️ [Kitwork](https://kitwork.io/): deploy a folder, get an isolated application
+* 🔎 [seoer.ai](https://seoer.ai/): an AI SEO engineer designed to work continuously
+* 🧩 [KitJS](https://kitjs.org/): plain HTML with a few friendly attributes
+* 📚 [Concepts](https://huynhnhanquoc.com/concepts): the ideas I had to understand while writing a runtime
+* 📗 [Build in Public Guide](https://buildinpublic.guide/): share unfinished work without turning life into content
+* 🏠 [huynhnhanquoc.com](https://huynhnhanquoc.com/): my work, writing, and full story
 
 ## What I Am Building
 
@@ -80,12 +80,12 @@ When a model writes code, more questions become important:
 
 These are familiar problems in a multi-tenant runtime. I am applying the same primitives to AI-generated programs:
 
-* 🎟️ [capability](https://github.com/huynhnhanquoc/capability) — the right to perform an action
-* ✍️ [grant](https://github.com/huynhnhanquoc/grant) — where that permission came from
-* 📦 [sandbox](https://github.com/huynhnhanquoc/sandbox) — the boundary around untrusted logic
-* 🧱 [isolation](https://github.com/huynhnhanquoc/isolation) — preventing one tenant or agent from reaching another
-* 💊 [capsule](https://github.com/huynhnhanquoc/capsule) — portable logic that still executes under defined limits
-* ⛽ [gas](https://github.com/huynhnhanquoc/gas) — a measurable cost that prevents unlimited execution
+* 🎟️ [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability): the right to perform an action
+* ✍️ [grant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/grant): where that permission came from
+* 📦 [sandbox](https://github.com/huynhnhanquoc/sandbox): the boundary around untrusted logic
+* 🧱 [isolation](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/isolation): preventing one tenant or agent from reaching another
+* 💊 [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule): portable logic that still executes under defined limits
+* ⛽ [gas](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/gas): a measurable cost that prevents unlimited execution
 
 ## Selected Work
 
@@ -101,14 +101,14 @@ Approximately 6 KB. No build step.
 
 [Concepts](https://huynhnhanquoc.com/concepts) is a collection of small repositories documenting the ideas I had to understand while writing a runtime. They are organized in the order I needed to learn them.
 
-* 🌍 The ground: [runtime](https://github.com/huynhnhanquoc/runtime) · [host](https://github.com/huynhnhanquoc/host) · [native](https://github.com/huynhnhanquoc/native) · [tenant](https://github.com/huynhnhanquoc/tenant)
-* 🔤 Reading and compiling: [lexer](https://github.com/huynhnhanquoc/lexer) · [ast](https://github.com/huynhnhanquoc/ast) · [compiler](https://github.com/huynhnhanquoc/compiler) · [bytecode](https://github.com/huynhnhanquoc/bytecode) · [opcode](https://github.com/huynhnhanquoc/opcode) · [vm](https://github.com/huynhnhanquoc/vm)
-* 🧮 What the language means: [expression](https://github.com/huynhnhanquoc/expression) · [evaluate](https://github.com/huynhnhanquoc/evaluate) · [scope](https://github.com/huynhnhanquoc/scope)
-* 🔐 Permission to run: [capability](https://github.com/huynhnhanquoc/capability) · [grant](https://github.com/huynhnhanquoc/grant) · [sandbox](https://github.com/huynhnhanquoc/sandbox) · [isolation](https://github.com/huynhnhanquoc/isolation)
-* 🎯 Where truth lives: [servertruth](https://github.com/huynhnhanquoc/servertruth) · [zerovm](https://github.com/huynhnhanquoc/zerovm) · [capsule](https://github.com/huynhnhanquoc/capsule) · [gas](https://github.com/huynhnhanquoc/gas)
-* 🚦 Answering a request: [router](https://github.com/huynhnhanquoc/router) · [render](https://github.com/huynhnhanquoc/render) · [template](https://github.com/huynhnhanquoc/template) · [prewarm](https://github.com/huynhnhanquoc/prewarm) · [directive](https://github.com/huynhnhanquoc/directive)
-* 🖱️ The browser side: [behavior](https://github.com/huynhnhanquoc/behavior) · runtime-js · [hydrate](https://github.com/huynhnhanquoc/hydrate) · [jit](https://github.com/huynhnhanquoc/jit)
-* 📐 The plan: [blueprint](https://github.com/huynhnhanquoc/blueprint)
+* 🌍 The ground: [runtime](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/runtime) · [host](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/host) · [native](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/native) · [tenant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/tenant)
+* 🔤 Reading and compiling: [lexer](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/lexer) · [ast](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/ast) · [compiler](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/compiler) · [bytecode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/bytecode) · [opcode](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/opcode) · [vm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/vm)
+* 🧮 What the language means: [expression](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/expression) · [evaluate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/evaluate) · [scope](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/scope)
+* 🔐 Permission to run: [capability](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capability) · [grant](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/grant) · [sandbox](https://github.com/huynhnhanquoc/sandbox) · [isolation](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/isolation)
+* 🎯 Where truth lives: [servertruth](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/servertruth) · [zerovm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/zerovm) · [capsule](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/capsule) · [gas](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/gas)
+* 🚦 Answering a request: [router](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/router) · [render](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/render) · [template](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/template) · [prewarm](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/prewarm) · [directive](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/directive)
+* 🖱️ The browser side: [behavior](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/behavior) · runtime-js · [hydrate](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/hydrate) · [jit](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/jit)
+* 📐 The plan: [blueprint](https://github.com/huynhnhanquoc/huynhnhanquoc/tree/main/concepts/blueprint)
 
 **The order is part of the lesson.**
 
@@ -118,53 +118,53 @@ Approximately 6 KB. No build step.
 
 Related publishing projects:
 
-* 📰 [theinpublic.com](https://theinpublic.com/) — independent editorial for builders
-* 🇻🇳 [inpublic.vn](https://inpublic.vn/) — Vietnamese products and the people building them
+* 📰 [theinpublic.com](https://theinpublic.com/): independent editorial for builders
+* 🇻🇳 [inpublic.vn](https://inpublic.vn/): Vietnamese products and the people building them
 
 ## Everything I Run
 
 ### Kitwork Core
 
-* ⚙️ [kitwork.io](https://kitwork.io/) — the runtime. A JavaScript subset, a bytecode compiler, and a hand-written Go VM
-* 🇻🇳 [kitwork.vn](https://kitwork.vn/) — Kitwork for Vietnam
-* 📖 [kitwork.org](https://kitwork.org/) — the open-source face
-* 🧩 [kitjs.org](https://kitjs.org/) — the client half. No bundler, no `eval`
-* 🗄️ [kitdata.vn](https://kitdata.vn/) — data APIs behind one key
-* 📦 [kitmodule.com](https://kitmodule.com/) — module registry
-* 🧱 [kitnext.com](https://kitnext.com/) — modular SaaS on the runtime
+* ⚙️ [kitwork.io](https://kitwork.io/): the runtime. A JavaScript subset, a bytecode compiler, and a hand-written Go VM
+* 🇻🇳 [kitwork.vn](https://kitwork.vn/): Kitwork for Vietnam
+* 📖 [kitwork.org](https://kitwork.org/): the open-source face
+* 🧩 [kitjs.org](https://kitjs.org/): the client half. No bundler, no `eval`
+* 🗄️ [kitdata.vn](https://kitdata.vn/): data APIs behind one key
+* 📦 [kitmodule.com](https://kitmodule.com/): module registry
+* 🧱 [kitnext.com](https://kitnext.com/): modular SaaS on the runtime
 
 ### Build in Public
 
-* 📗 [buildinpublic.guide](https://buildinpublic.guide/) — share unfinished work, 30-day practice included
-* 📰 [theinpublic.com](https://theinpublic.com/) — independent editorial for builders
-* 🇻🇳 [inpublic.vn](https://inpublic.vn/) — Vietnamese products going out to the world
-* 🔗 [bip.guide](https://bip.guide/) · [bipguide.com](https://bipguide.com/) — short links home
+* 📗 [buildinpublic.guide](https://buildinpublic.guide/): share unfinished work, 30-day practice included
+* 📰 [theinpublic.com](https://theinpublic.com/): independent editorial for builders
+* 🇻🇳 [inpublic.vn](https://inpublic.vn/): Vietnamese products going out to the world
+* 🔗 [bip.guide](https://bip.guide/) · [bipguide.com](https://bipguide.com/): short links home
 
 ### Communities
 
-* 💬 [bytecode.vn](https://bytecode.vn/) — compilers, runtimes, and the layers under the frameworks
-* 🧑‍💻 [builders.vn](https://builders.vn/) — builders and solo founders in Vietnam
-* 🤝 [with.vn](https://with.vn/) — communities by topic
-* 🤖 [withai.vn](https://withai.vn/) — AI in Vietnamese
-* 🔓 [opens.vn](https://opens.vn/) — open source and the people who contribute
-* 🌉 [danang.it](https://danang.it/) — the tech community where I live
+* 💬 [bytecode.vn](https://bytecode.vn/): compilers, runtimes, and the layers under the frameworks
+* 🧑‍💻 [builders.vn](https://builders.vn/): builders and solo founders in Vietnam
+* 🤝 [with.vn](https://with.vn/): communities by topic
+* 🤖 [withai.vn](https://withai.vn/): AI in Vietnamese
+* 🔓 [opens.vn](https://opens.vn/): open source and the people who contribute
+* 🌉 [danang.it](https://danang.it/): the tech community where I live
 
 ### Kit Products
 
-* 🔎 [seoer.ai](https://seoer.ai/) — AI SEO engineer. [seoer.vn](https://seoer.vn/) for Vietnam
-* 📤 [kitsend.com](https://kitsend.com/) — send a file, fast
-* 🔳 [kitqrcode.com](https://kitqrcode.com/) — QR codes, made and managed
-* 💳 [kitpay.vn](https://kitpay.vn/) — payment QR
-* ✍️ [kitblog.vn](https://kitblog.vn/) — write and publish
-* 🛒 [kitbuy.vn](https://kitbuy.vn/) — search products, compare prices
-* 🔗 [kiturl.com](https://kiturl.com/) — short links, tracked properly
-* 🎟️ [kitvoucher.com](https://kitvoucher.com/) — vouchers and deals
+* 🔎 [seoer.ai](https://seoer.ai/): AI SEO engineer. [seoer.vn](https://seoer.vn/) for Vietnam
+* 📤 [kitsend.com](https://kitsend.com/): send a file, fast
+* 🔳 [kitqrcode.com](https://kitqrcode.com/): QR codes, made and managed
+* 💳 [kitpay.vn](https://kitpay.vn/): payment QR
+* ✍️ [kitblog.vn](https://kitblog.vn/): write and publish
+* 🛒 [kitbuy.vn](https://kitbuy.vn/): search products, compare prices
+* 🔗 [kiturl.com](https://kiturl.com/): short links, tracked properly
+* 🎟️ [kitvoucher.com](https://kitvoucher.com/): vouchers and deals
 
 ### Not Code
 
-* 🌸 [hoahouse.com](https://hoahouse.com/) — the coffee shop I opened when affiliate work finally paid. We sell dreams there
-* 🎧 [lofiwithme.com](https://lofiwithme.com/) — rain, coffee, soft keys. I write the music too
-* 🏙️ [tamky.city](https://tamky.city/) — the town I come from
+* 🌸 [hoahouse.com](https://hoahouse.com/): the coffee shop I opened when affiliate work finally paid. We sell dreams there
+* 🎧 [lofiwithme.com](https://lofiwithme.com/): rain, coffee, soft keys. I write the music too
+* 🏙️ [tamky.city](https://tamky.city/): the town I come from
 
 ### Registered, Not Built Yet
 
@@ -218,12 +218,12 @@ Kitstack contained too much private business logic to release cleanly. Kitwork i
 
 ## In This Repository
 
-* 📚 [concepts/](./concepts) — the runtime notes I wrote by hand, in reading order
-* 🧠 [thinking/](./thinking) — technical decisions I could not find explained clearly elsewhere
-* 💡 [ideas/](./ideas) — unfinished arguments and experiments; some will turn out wrong
-* 🖥️ [command/](./command) — server commands and scripts I use in real work
-* 📗 [build-in-public/](./build-in-public) — the Build in Public framework, templates and checklists
-* 🗂️ [reference/](./reference) — generated lookup entries, kept separate from the writing
+* 📚 [concepts/](./concepts): the runtime notes I wrote by hand, in reading order
+* 🧠 [thinking/](./thinking): technical decisions I could not find explained clearly elsewhere
+* 💡 [ideas/](./ideas): unfinished arguments and experiments; some will turn out wrong
+* 🖥️ [command/](./command): server commands and scripts I use in real work
+* 📗 [build-in-public/](./build-in-public): the Build in Public framework, templates and checklists
+* 🗂️ [reference/](./reference): generated lookup entries, kept separate from the writing
 
 ## Connect
 

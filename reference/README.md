@@ -19,14 +19,14 @@ I needed to learn them. Read those instead.
 
 ## Categories
 
-- [ai](./ai) — models, agents, prompting, memory
-- [cloud](./cloud) — infrastructure, scaling, pipelines
-- [databases](./databases) — trees, transactions, storage
-- [general](./general) — general computing terms
-- [networking](./networking) — routing, bandwidth, brokers
-- [programming](./programming) — algorithms and patterns
-- [runtime](./runtime) — runtime and execution terms
-- [security](./security) — access, authentication, safety
+- [ai](./ai): models, agents, prompting, memory
+- [cloud](./cloud): infrastructure, scaling, pipelines
+- [databases](./databases): trees, transactions, storage
+- [general](./general): general computing terms
+- [networking](./networking): routing, bandwidth, brokers
+- [programming](./programming): algorithms and patterns
+- [runtime](./runtime): runtime and execution terms
+- [security](./security): access, authentication, safety
 
 ## If you are wondering why they are here
 
