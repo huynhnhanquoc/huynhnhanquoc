@@ -1,8 +1,20 @@
 # Hi, I'm Huỳnh Nhân Quốc 👋
 
-📍 Da Nang, Vietnam | 🚀 Solo founder, building Kitwork | 🧠 AI runtime engineer
+📍 Da Nang, Vietnam | 🚀 Indie engineer, building Kitwork | 🧠 AI runtime engineer
 
 > My work is not only about writing code. It is about reducing helplessness in front of the systems I depend on.
+
+---
+
+## 🌐 Connect
+
+- 📧 **Email**: [hi@huynhnhanquoc.com](mailto:hi@huynhnhanquoc.com)
+- 🌐 **Website**: [huynhnhanquoc.com](https://huynhnhanquoc.com)
+- 💻 **GitHub**: [@huynhnhanquoc](https://github.com/huynhnhanquoc)
+- 🐦 **X (Twitter)**: [@huynhnhanquoc](https://x.com/huynhnhanquoc)
+- 🧵 **Threads**: [@huynhnhanquoc](https://threads.com/@huynhnhanquoc)
+- 📰 **Substack**: [huynhnhanquoc.substack.com](https://huynhnhanquoc.substack.com)
+- 📺 **YouTube**: [@huynhnhanquoc](https://www.youtube.com/@huynhnhanquoc)
 
 ---
 
