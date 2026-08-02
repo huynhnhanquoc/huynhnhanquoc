@@ -6,20 +6,6 @@
 
 ---
 
-## 📌 Information & Specs (`info/`)
-
-| Module | YAML Data |
-| :--- | :--- |
-| 👤 **About Me** | [**`info/about.yml`**](./info/about.yml) |
-| 🌐 **Social Channels** | [**`info/social.yml`**](./info/social.yml) |
-| 🌐 **Owned Domains** | [**`info/domains.yml`**](./info/domains.yml) |
-| 🚀 **Projects** | [**`info/projects.yml`**](./info/projects.yml) |
-| 💻 **Tech Stack** | [**`info/stack.yml`**](./info/stack.yml) |
-| 💖 **Donate** | [**`info/donate.yml`**](./info/donate.yml) |
-| 📬 **Contact** | [**`info/contact.yml`**](./info/contact.yml) |
-
----
-
 ## ⚙️ Core Focus
 
 - ⚙️ **[Kitwork](https://kitwork.io/)**: Sovereign multi-tenant Go logic engine & custom VM runtime.
