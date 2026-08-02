@@ -14,6 +14,21 @@ Today, I am using that foundation to build [seoer.ai](https://seoer.ai/) and exp
 
 > My work is not only about writing code. It is about reducing helplessness in front of the systems I depend on.
 
+---
+
+## 📌 Information Modules
+
+| Module | Topic & Content | Link |
+| :--- | :--- | :--- |
+| 👤 **About Me** | Bio, background, location in Da Nang, and engineering philosophy. | [**`ABOUT.md`**](./ABOUT.md) |
+| 🌐 **Social Channels** | X (Twitter), LinkedIn, Substack, GitHub, and community hubs. | [**`SOCIAL.md`**](./SOCIAL.md) |
+| 💖 **Support & Donate** | VietQR / Napas bank transfer, MoMo, GitHub Sponsors & Buy Me a Coffee. | [**`DONATE.md`**](./DONATE.md) |
+| 🚀 **Projects & Products**| Kitwork Engine, theinpublic.com, seoer.ai, lofiwithme.com portfolio. | [**`PROJECTS.md`**](./PROJECTS.md) |
+| 💻 **Tech Stack** | Go, SQLite WAL, custom VM, Caddy AutoSSL & Hetzner VPS setup. | [**`STACK.md`**](./STACK.md) |
+| 📬 **Contact & Inquiries**| Direct contact methods and technical collaboration inquiries. | [**`CONTACT.md`**](./CONTACT.md) |
+
+---
+
 ## Start Here
 
 * ⚙️ [Kitwork](https://kitwork.io/): deploy a folder, get an isolated application
