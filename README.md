@@ -18,14 +18,14 @@ Today, I am using that foundation to build [seoer.ai](https://seoer.ai/) and exp
 
 ## 📌 Information Modules
 
-| Module | Topic & Content | Markdown Link | YAML Data |
-| :--- | :--- | :--- | :--- |
-| 👤 **About Me** | Bio, background, location in Da Nang, and engineering philosophy. | [**`ABOUT.md`**](./info/ABOUT.md) | [**`about.yml`**](./info/about.yml) |
-| 🌐 **Social Channels** | X (Twitter), LinkedIn, Substack, GitHub, and community hubs. | [**`SOCIAL.md`**](./info/SOCIAL.md) | [**`social.yml`**](./info/social.yml) |
-| 💖 **Support & Donate** | VietQR / Napas bank transfer, MoMo, GitHub Sponsors & Buy Me a Coffee. | [**`DONATE.md`**](./info/DONATE.md) | [**`donate.yml`**](./info/donate.yml) |
-| 🚀 **Projects & Products**| Kitwork Engine, theinpublic.com, seoer.ai, lofiwithme.com portfolio. | [**`PROJECTS.md`**](./info/PROJECTS.md) | [**`projects.yml`**](./info/projects.yml) |
-| 💻 **Tech Stack** | Go, SQLite WAL, custom VM, Caddy AutoSSL & Hetzner VPS setup. | [**`STACK.md`**](./info/STACK.md) | [**`stack.yml`**](./info/stack.yml) |
-| 📬 **Contact & Inquiries**| Direct contact methods and technical collaboration inquiries. | [**`CONTACT.md`**](./info/CONTACT.md) | [**`contact.yml`**](./info/contact.yml) |
+| Module | Topic & Content | YAML Data |
+| :--- | :--- | :--- |
+| 👤 **About Me** | Bio, background, location in Da Nang, and engineering philosophy. | [**`info/about.yml`**](./info/about.yml) |
+| 🌐 **Social Channels** | X (Twitter), LinkedIn, Substack, GitHub, and community hubs. | [**`info/social.yml`**](./info/social.yml) |
+| 💖 **Support & Donate** | VietQR / Napas bank transfer, MoMo, GitHub Sponsors & Buy Me a Coffee. | [**`info/donate.yml`**](./info/donate.yml) |
+| 🚀 **Projects & Products**| Kitwork Engine, theinpublic.com, seoer.ai, lofiwithme.com portfolio. | [**`info/projects.yml`**](./info/projects.yml) |
+| 💻 **Tech Stack** | Go, SQLite WAL, custom VM, Caddy AutoSSL & Hetzner VPS setup. | [**`info/stack.yml`**](./info/stack.yml) |
+| 📬 **Contact & Inquiries**| Direct contact methods and technical collaboration inquiries. | [**`info/contact.yml`**](./info/contact.yml) |
 
 ---
 
