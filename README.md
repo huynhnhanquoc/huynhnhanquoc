@@ -1,8 +1,8 @@
 # Hi, I'm Huỳnh Nhân Quốc 👋
 
-📍 Tam Ky ↔ Da Nang, Vietnam | 🚀 Indie Engineer | 🧠 Agentic AI Runtime
+📍 Tam Ky ↔ Da Nang, Vietnam | 🚀 Indie Engineer | 🧠 Go Developer
 
-> My work is not only about writing code. It is about reducing helplessness in front of the systems I depend on.
+> I used to spend years writing code by hand; now I craft systems alongside Agentic AI.
 
 ---
 
