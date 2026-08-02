@@ -1,20 +1,60 @@
-domains:
+# 🌐 Complete Domain Portfolio — Huỳnh Nhân Quốc & Kitwork Ecosystem
+
+personal_brand:
   - domain: huynhnhanquoc.com
-    type: Personal Portal & Blog
+    type: Personal Portal, Blog & Digital Garden
+    status: Active
+  - domain: dashboard.huynhnhanquoc.com
+    type: Admin & Personal OS Dashboard
+    status: Active
+  - domain: huynhnhanviet.com
+    type: Vietnamese Personal Brand & Writings
     status: Active
 
+kitwork_ecosystem:
   - domain: kitwork.io
-    type: Sovereign Web Runtime & Engine
+    type: Sovereign Multi-Tenant Web Runtime & Custom Go VM
+    status: Active (Apex)
+  - domain: kitwork.org
+    type: Kitwork Open Source Foundation & Specs
+    status: Active
+  - domain: kitwork.vn
+    type: Kitwork Vietnam Regional Domain
+    status: Active
+  - domain: kitjs.org
+    type: KitJS Client Kernel & HTML Attribute Framework
+    status: Active
+  - domain: screenshot.kitwork.io
+    type: Dynamic Screenshot Rendering Service
     status: Active
 
+build_in_public_ecosystem:
   - domain: theinpublic.com
-    type: Build in Public & Open Startup Hub
+    type: Build in Public & Open Startup Knowledge Hub
+    status: Active
+  - domain: inpublic.vn
+    type: Build in Public Vietnam Community Portal
+    status: Active
+  - domain: buildinpublic.guide
+    type: Interactive Build in Public Handbook
     status: Active
 
+products_and_infrastructure:
   - domain: seoer.ai
-    type: AI Search & GEO Specification
+    type: AI Search Engineering & GEO Specification Platform
     status: Active
-
   - domain: lofiwithme.com
-    type: Ambient Focus & Productivity Space
+    type: Ambient Focus & Lofi Workspace Platform
+    status: Active
+  - domain: bytecode.vn
+    type: Bytecode Engineering & Low-Level Technology
+    status: Active
+  - domain: kitdata.vn
+    type: KitData Platform & Data Infrastructure
+    status: Active
+  - domain: api.kitdata.vn
+    type: KitData Infrastructure API Endpoint
+    status: Active
+  - domain: api.opens.vn
+    type: Open API Gateway & Cloud Microservices
     status: Active
