@@ -1,8 +1,4 @@
-language: Go (Golang)
-runtime: Kitwork Engine
-database: SQLite (WAL Mode), PostgreSQL
-frontend: Vanilla JS, HTML, Vanilla CSS
-server: Caddy (AutoSSL, HTTP/3)
-vps: Hetzner, DigitalOcean
-editor: VS Code, Antigravity IDE
-os: Windows, Linux VPS
+language: Go (Golang), JS-Like
+database:  PostgreSQL, SQLite (WAL Mode)
+frontend: Vanilla JS, HTML, CSS
+
