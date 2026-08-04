@@ -8,9 +8,6 @@
 ## ⚙️ Core Focus
 
 - ⚙️ **[Kitwork Engine](https://kitwork.io/)**: Sovereign multi-tenant Go logic engine & custom bytecode VM runtime.
-- 🤖 **[Kitwork Agent Runtime](https://kitwork.io/agents)**: One binary, many isolated, durable AI agents with human approval checkpoints.
-- 📰 **[WithAI.vn](https://withai.vn/)**: AI news platform powered by WithAI Newsroom Agents.
-- 🔗 **[KitURL](https://kiturl.localhost)**: High-performance URL shortener running on Kitwork Engine.
 - 🔎 **[seoer.ai](https://seoer.ai/)**: Generative Engine Optimization (GEO) & AI search specification.
 - 🚀 **[theinpublic.com](https://theinpublic.com/)**: Build in Public & open startup knowledge hub.
 - 🎧 **[lofiwithme.com](https://lofiwithme.com/)**: Ambient focus & lofi workspace.
@@ -20,9 +17,9 @@
 
 ## 📖 Complete Life Story & Biography
 
-> 📖 **[Read my full 24-year story & journey (2002 — 2026)](about/README.md)**
+> 📖 **[Read my full story & journey (2002 — 2026)](about/README.md)**
 
-A detailed, honest narrative of my journey: from barefoot internet gaming cafes in 2002, 2 years in the military (2014), dropping out of university to move to Saigon, the "Din Din" startup, $15k Tam Ky delivery service, $10k affiliate campaigns, to building custom JS frameworks and the **Kitwork Go Bytecode Engine**.
+A detailed narrative of my journey: from barefoot gaming cafes in 2002, 2 years in the military (2014), dropping out of university to move to Saigon, the "Din Din" startup, 15,000 VND (~$0.60) local delivery service in Tam Ky, affiliate campaigns, to building custom JS frameworks and the **Kitwork Go Bytecode Engine**.
 
 ---
 

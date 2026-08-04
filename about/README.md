@@ -1,6 +1,6 @@
 # About Me: The Complete Life Story & Journey — Huỳnh Nhân Quốc (Q)
 
-> *"Writing a blog is not to boast, but to remember and to share. Every article is a milestone in my journey, a personal reminder of why I started. I share not to seek validation, but to connect with like-minded souls in the indie hacker community."*
+> *"Writing a blog is not to boast, but to remember and to share. Every article is a milestone in my journey, a personal reminder of why I started. I share not to seek validation, but to connect with like-minded souls in the indie hacker community. Even if quiet, I always feel empowered by those invisible friends who walk alongside me on this chosen path."*
 
 ---
 
@@ -37,7 +37,7 @@ In **February 2015**, I was discharged and returned home to Tam Ky. I helped my 
 ### Entering University & Studying Philosophy (September 2015)
 In **September 2015**, I entered Quang Nam University majoring in Information Technology. During my first semester, while many students disliked Marxist-Leninist Philosophy, I found a deep fascination in it. I spent hours reading philosophy documents, taking notes, and discovering a scientific worldview that shaped how I communicate with others.
 
-When it came to C/C++ programming exams on paper, I didn't know much at first. But during an exam, I remembered recursive functions, wrote down the recursive code from memory onto paper, and passed—the first and last time I ever copied code.
+When it came to C/C++ programming paper exams, I didn't know much at first. But during an exam, I remembered recursive functions, wrote down the recursive code from memory onto paper, and passed—the first and last time I ever copied code.
 
 ### Learning Lao Language from International Classmates
 My university class included 11 international students from Laos. Intrigued by their Vietnamese fluency, I searched online for common Lao phrases. Within days, I memorized their names, learned conversational Lao, and shared jokes with them. I realized Lao grammar was remarkably similar to Vietnamese, making it easy to construct new sentences once you knew the vocabulary.
@@ -67,7 +67,7 @@ That led me to **Xamarin**, Google Sheets API streaming, Azure, and **Firebase**
 
 ## 📜 The First Job Application Letter (2018)
 
-Here is the exact heart of the letter I wrote in early 2018 when applying for my first real job:
+Here is the exact text of the letter I wrote in early 2018 when applying for my first real job:
 
 > *"Hello everyone.*  
 > *My name is Huỳnh Nhân Quốc.*  
@@ -140,7 +140,7 @@ If anyone asks what my job is today, I answer: **"Multipotentialite"** (*Kẻ l�
 > *Thương gì một kẻ lông bông.*  
 > *Trong tay kẻ đó lại không có gì.*  
 > *Mơ gì đâu chuyện ngày mai.*  
-> *Tương lai chẳng có, mưu cầu lại không.*
+> *Tương lại chẳng có, mưu cầu lại không.*
 
 I ranked #1 on Google for *"Dao Coffee"*. I wrote my own CSS libraries and vanilla JS platform. I don't care about empty titles like CEO or CTO—all I care about is trust and clean hands:
 > *"As long as these hands stay clean, I will take on any honest challenge."*
@@ -160,8 +160,8 @@ When COVID-19 hit in early 2020, Lychee returned to Wuhan, Parker returned home,
 
 ## 🛵 Returning Home Broke & Starting Over (2020)
 
-### The 15k Delivery Service ("Giao vặt Tam Kỳ 15k")
-Returning home to Tam Ky in Spring 2020 with no money, I created a local errand Facebook page called *"Giao vặt Tam Kỳ 15k"* (15,000 VND delivery service). As long as my hands stayed clean, I accepted any honest work to survive.
+### The 15,000 VND Delivery Service ("Giao vặt Tam Kỳ 15k")
+Returning home to Tam Ky in Spring 2020 with no money, I created a local errand Facebook page called *"Giao vặt Tam Kỳ 15k"* (15,000 VND / ~0.60 USD delivery fee). As long as my hands stayed clean, I accepted any honest work to survive.
 
 ### 2020 Milestones
 During 2020, I pushed myself harder than ever before in my 25 years of life:
@@ -191,8 +191,8 @@ While others used WordPress, Shopify, Laravel, Flask, or Spring, I chose my own 
 ### Samdy.vn — Top 66 E-Commerce Site in Vietnam
 In November 2021, I launched *Samdy.vn*, an automated price-comparison affiliate site. Driven by automated SEO algorithms, *Samdy.vn* climbed into the **Top 66 largest e-commerce websites in Vietnam**, earning my first $1,000 in affiliate revenue before Google algorithm updates shifted rankings.
 
-### Highlands Coffee Campaign — $10,000 in 6 Months
-In August 2022, I ran an affiliate campaign for Highlands Coffee. Combining paid ads with a 30,000-member Facebook group (*Kit Voucher*), I established a **Free/Paid Traffic Funnel** that generated **over $10,000 (200,000,000 VND)** in revenue over 6 months.
+### Highlands Coffee Campaign — 200 Million VND (~$10,000) in 6 Months
+In August 2022, I ran an affiliate campaign for Highlands Coffee. Combining paid ads with a 30,000-member Facebook group (*Kit Voucher*), I established a **Free/Paid Traffic Funnel** that generated **over 200 million VND (~$10,000 USD)** in revenue over 6 months.
 
 ---
 
