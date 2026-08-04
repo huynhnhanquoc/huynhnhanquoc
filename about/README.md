@@ -6,7 +6,7 @@
 
 ## 📖 Complete Biographical Narrative (2002 — 2026)
 
-### 🎮 1. Childhood, Internet & Gaming Cafes (2002 – 2013)
+### 🎮 Chapter 1: Childhood, Internet & Gaming Cafes (2002 – 2013)
 In 2002, as the Internet was introduced across Vietnam, I stepped into local gaming cafes in my hometown of Tam Ky.
 - My childhood revolved around *MU Online*, *Yahoo Messenger*, *Võ Lâm Truyền Kỳ*, *Space Cowboy*, and *Perfect World*.
 - It was a childhood of climbing fences, walking barefoot to net cafes, and enduring strict discipline and beatings with switches from my parents for escaping home to play.
@@ -14,21 +14,21 @@ In 2002, as the Internet was introduced across Vietnam, I stepped into local gam
 
 ---
 
-### 🪖 2. Military Service, College & Learning Lao (2014 – 2015)
+### 🪖 Chapter 2: Military Service, College & Learning Lao (2014 – 2015)
 - **January 30, 2014**: Enlisted in the Vietnam People's Army for 2 years of mandatory military service. Celebrating my first Lunar New Year away from home in uniform, I wrote a poem for my parents:
   > *"Con nhớ bạn bè và cả gia đình / Như cách chim đang ở trời xa / Xuân sang ai muốn xa nhà / Là con đâu muốn xa rời mẹ cha / Nhưng vì nghĩa vụ mẹ à / Khi xuân còn thắm, phải xa đôi đường..."*  
   Serving my country remains one of my proudest early achievements.
 - **February 2015**: Discharged and returned home to Tam Ky. I helped my family, earned my driver's license, prepared for university entrance exams, and discovered Blogger (Google).
 - **September 2015**: Admitted to Quang Nam University majoring in IT. The first search query I ever typed online was: *"What is HTML?"*. I taught myself HTML, CSS, and JavaScript to customize Blogger themes.
 - **Marx-Leninism & Philosophy**: While many students disliked philosophy, I developed a passion for it, taking notes and finding a scientific worldview to converse with others.
-- **Paper Exams & Recursion**: When faced with a C/C++ paper exam, I copied recursive function code from my memory onto paper—marking the first and last time I ever copied code.
+- **Paper Exams & Recursion**: When faced with a C/C++ paper exam, I copied recursive function code from memory onto paper—marking the first and last time I ever copied code.
 - **Learning Lao Language**: My class included 11 international students from Laos. Intrigued by their Vietnamese fluency, I taught myself conversational Lao online, memorized their names, and told jokes in Lao by mapping Vietnamese words to Lao syntax.
 
 ---
 
-### 💻 3. C# Shoe Software & Dropping Out of University (2016 – 2018)
+### 💻 Chapter 3: C# Shoe Software & Dropping Out of University (2016 – 2018)
 - **Year 2 of University**: Fell deeply in love with C#. Over 3 intense months, I built a shoe store management desktop application using WinForms.
-  * Converted VB.net code snippets into C# using online tools.
+  * Converted VB.net code snippets into C# using online conversion tools.
   * Created custom color IDs using Hashtables (e.g., `00` for white, `11` for black, `01` for white-black, `22` for red).
   * Implemented fallback try-catch loops for auto-incrementing ID indexing when array lengths mismatched deleted items.
   * Inspired by barcode scanners at my local Tam Ky supermarket, I researched and integrated Code128 barcode generation.
@@ -42,7 +42,7 @@ In 2002, as the Internet was introduced across Vietnam, I stepped into local gam
 
 ---
 
-### 🚀 4. Saigon Engineering, "Dao Coffee" & The "Din Din" Startup (2018 – 2020)
+### 🚀 Chapter 4: Saigon Engineering, "Dao Coffee" & The "Din Din" Startup (2018 – 2020)
 - Worked as an Angular developer in Saigon. Days spent shipping code, nights spent reading others' code to level up.
 - **The SEO Breakthrough**: Built websites that ranked #1 on Google (such as *Dao Coffee*). I dove deep into Google Bot mechanics, Server-side Rendering (SSR), Angular Ivy compiler, PWA, TWA (Trusted Web Activity for Google Play), and JAMstack (Jekyll, Hugo, GatsbyJS, Next.js, Nuxt.js).
 - **April 19, 2019 Essay**: Reflected on youth, persistence, having no mentors or guides—just following my heart and moving forward.
@@ -52,7 +52,7 @@ In 2002, as the Internet was introduced across Vietnam, I stepped into local gam
 
 ---
 
-### 🛵 5. Pandemic, $15k Tam Kỳ Delivery & $10,000 Affiliate Marketing (2020 – 2022)
+### 🛵 Chapter 5: Pandemic, $15k Tam Kỳ Delivery & $10,000 Affiliate Marketing (2020 – 2022)
 - **Returning Home Broke (2020)**: With little money left, I started a local errand service called *"Giao vặt Tam Kỳ 15k"* (15,000 VND delivery service) to survive. As long as my hands stayed clean, no job was too small.
 - **Insomniac Engineering**: I pulled all-nighters 200 out of 365 days (sleeping 10 PM to 3 AM or 9 AM sleep cycles).
 - **Platform Milestones**: Solved 4 core architectural challenges (DNS Resolution, Root Pointers, Diamond Problem, Architecturalized Templates), built 10 websites, wrote 25 personal essays, and authored a novella.
@@ -62,7 +62,7 @@ In 2002, as the Internet was introduced across Vietnam, I stepped into local gam
 
 ---
 
-### ⚙️ 6. The Dream of "Technological Independence" & Go VM (2022 – 2026)
+### ⚙️ Chapter 6: The Dream of "Technological Independence" & Go VM (2022 – 2026)
 
 > *"Go outside while it is still daylight."*
 
