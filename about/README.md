@@ -6,7 +6,7 @@
 
 ## 📖 Complete Biographical Narrative (2002 — 2026)
 
-### 🎮 1. Childhood, Internet & Online Gaming (2002 – 2013)
+### 🎮 1. Childhood, Internet & Gaming Cafes (2002 – 2013)
 In 2002, as the Internet was introduced across Vietnam, I stepped into local gaming cafes in my hometown of Tam Ky.
 - My childhood revolved around *MU Online*, *Yahoo Messenger*, *Võ Lâm Truyền Kỳ*, *Space Cowboy*, and *Perfect World*.
 - It was a childhood of climbing fences, walking barefoot to net cafes, and enduring strict family discipline for the thrill of exploring virtual worlds.
@@ -14,16 +14,15 @@ In 2002, as the Internet was introduced across Vietnam, I stepped into local gam
 
 ---
 
-### 🪖 2. Military Service & First Engineering Steps (2014 – 2015)
+### 🪖 2. Military Service, College & Learning Lao (2014 – 2015)
 - **January 30, 2014**: Enlisted in the Vietnam People's Army for 2 years of mandatory military service. Celebrating my first Lunar New Year away from home in uniform, I wrote a poem for my parents—marking one of my proudest early achievements serving my country.
 - **February 2015**: Discharged and returned home to Tam Ky. I helped my family, earned my driver's license, prepared for university entrance exams, and discovered Blogger (Google).
-- **September 2015**: Admitted to Quang Nam University majoring in IT.
-- The first search query I ever typed online was: *"What is HTML?"*. I taught myself HTML, CSS, and JavaScript to customize Blogger themes.
-- My class included 11 international students from Laos. Impressed by their Vietnamese fluency, I taught myself conversational Lao to connect and share stories with them.
+- **September 2015**: Admitted to Quang Nam University majoring in IT. The first search query I ever typed online was: *"What is HTML?"*. I taught myself HTML, CSS, and JavaScript to customize Blogger themes.
+- My class included 11 international students from Laos. Impressed by their Vietnamese fluency, I taught myself conversational Lao to connect, memorize their names, and share jokes with them.
 
 ---
 
-### 💻 3. C# Obsession & Dropping Out of University (2016 – 2018)
+### 💻 3. C# Shoe Software & Dropping Out of University (2016 – 2018)
 - **Year 2 of University**: Fell deeply in love with C#. Over 3 intense months, I built a shoe store management desktop application using WinForms, Hashtables for color indexing, and Code128 barcodes. That project taught me recursion and real-world data structures.
 - I vaulted into the **Top 3 of my class**, achieving top grades in C# and SQL.
 - I independently researched WPF, MVVM, Entity Framework, Xamarin, Firebase Realtime Database, and Progressive Web Apps (PWA).
@@ -31,31 +30,36 @@ In 2002, as the Internet was introduced across Vietnam, I stepped into local gam
 
 ---
 
-### 🚀 4. Saigon Engineering, JAMstack & SEO Insights (2018 – 2020)
+### 🚀 4. Saigon Engineering, "Dao Coffee" & The "Din Din" Startup (2018 – 2020)
 - Worked as an Angular developer in Saigon. Days spent shipping code, nights spent reading others' code to level up.
-- **The SEO Awakening**: Client sites I built ranked #1 on Google, but my personal sites performed poorly. I dove deep into Google Bot mechanics, Server-side Rendering (SSR), PWA, and JAMstack (Hugo, GatsbyJS).
-- **The Platform Mindset**: *"A framework is only as good as your understanding of it. I don't want to just learn other people's frameworks anymore—I want to build my own platform."*
-- On April 19, 2019, I reflected on my youth: No mentors, no guides—just following my intuition and moving forward.
+- **The SEO Breakthrough**: Built websites that ranked #1 on Google (such as *Dao Coffee*). I dove deep into Google Bot mechanics, SSR, PWA, and JAMstack (Hugo, GatsbyJS).
+- **The "Din Din" Startup (DIMODO)**: In 2019, I met Parker (from South Korea) and Lychee (from Wuhan, China). Despite speaking poor English, we communicated via Google Translate and formed a 3-person startup team called "Din Din". We debated Agile vs. MVP vs. Platform philosophy: *"A product may fail, but a great platform will build even better products."*
+- When the COVID-19 pandemic hit in early 2020, Lychee returned to Wuhan, Parker returned home, and our team was separated by closed borders.
 
 ---
 
-### ⚙️ 5. Self-Hosting, Go (Golang) & Energy Computing (2020 – 2024)
-- Transitioned entirely to **Go (Golang)** for backend systems, drawn to its request speed, goroutine concurrency, and minimal syntax design.
-- Spent over 5 years self-hosting on Ubuntu servers, taking full ownership of infrastructure rather than relying on costly third-party cloud services.
-- Formulated **Energy Computing**: Treating every memory allocation, context switch, and syscall as a unit of energy with a real cost. Focused on zero-allocation patterns on hot execution paths.
+### 🛵 5. Pandemic, $15k Tam Ky Delivery & $10k Affiliate Marketing (2020 – 2022)
+- **Returning Home Broke (2020)**: With little money left, I started a local errand service called *"Giao vặt Tam Kỳ 15k"* (15,000 VND delivery service) to support myself. As long as my hands stayed clean, no job was too small.
+- **Insomniac Engineering**: I pulled all-nighters 200 out of 365 days, solving 4 core architectural challenges (DNS Resolution, Root Pointers, Diamond Problem, Architecturalized Templates), building 10 websites, writing 25 personal essays, and authoring a novella.
+- **Samdy.vn & E-Commerce Success**: Built *Samdy.vn*, a price-comparison site that climbed into the **Top 66 largest e-commerce sites in Vietnam** in 2021.
+- **Highlands Coffee Campaign**: Built a viral traffic funnel combining paid ads and a 30,000-member Facebook community (*Kit Voucher*), generating **over $10,000 (200,000,000 VND)** in 6 months.
 
 ---
 
-### 🧠 6. Kitwork Engine & Agent Runtime (2024 – 2026)
-Over the past year, I focused on designing and engineering **Kitwork Engine**:
-- **Custom Stack-based Bytecode VM in Pure Go**: Built around the philosophy "One binary. Many isolated systems." Zero CGO dependencies, ~14MB binary size, near-instant startup time.
-- **24-Byte Value System**: Memory-optimized NaN-boxed tagged union struct.
-- **Deterministic Execution via JS Subset**: No `while` loops, no `try-catch`, arrow functions only, with opcode gas energy limits (`MaxEnergy`).
-- **Filesystem Tree Routing**: Clean directory-based routing (`router.kitwork.js` & `page.kitwork.html`).
-- **Production Dogfooding**:
-  * **KitURL**: High-performance URL shortener built natively on Kitwork.
-  * **Kitwork Agent Runtime**: Multi-tenant AI Agent execution environment with SQLite state persistence, Skill contracts, and **Human Approval Checkpoints**.
-  * **WithAI Newsroom**: Autonomous news gathering, verification, and editing agent system for WithAI.vn.
+### ⚙️ 6. The Dream of "Technological Independence" & Go VM (2022 – 2026)
+
+> *"Go outside while it is still daylight."*
+
+After spending 27 hours straight in front of a small monitor, sacrificing sleep and health, I realized that true success is not empty titles (CEO/CTO) or endless hustle. It is **Technological Independence (Độc lập công nghệ)** and **Happiness**.
+
+- **Custom Vanilla JS Framework**: Built a framework from scratch using Web Components, OOP in JS, custom routers, template rendering, and lazy loading—with **zero `node_modules` dependencies**.
+- **Self-Hosting Mastery**: Spent over 5 years self-hosting on raw Ubuntu VPS servers, mastering Go backend systems, request speed, and goroutine concurrency.
+- **Energy Computing Philosophy**: Treating every memory allocation, context switch, and syscall as a unit of energy with a real cost. Focused on zero-allocation patterns on hot execution paths.
+- **Engineering Kitwork Engine (2024–2026)**:
+  * **Custom Stack-based Bytecode VM in Pure Go**: Built around the philosophy *"One binary. Many isolated systems."* Zero CGO, ~14MB binary, near-instant startup.
+  * **24-Byte Value System**: Memory-optimized NaN-boxed tagged union struct.
+  * **JS Subset & Gas Limits**: Arrow-only functions, no `while` loops, no `try-catch`, with opcode energy gas limits (`MaxEnergy`).
+  * **KitURL & Agent Runtime**: Shipped KitURL and built **Kitwork Agent Runtime** (durable multi-tenant AI Agent execution with SQLite state, Skill contracts, and Human Approval Checkpoints powering WithAI Newsroom).
 
 ---
 
