@@ -100,6 +100,23 @@
           "path": "command/postgresql-short-security.bash"
         }
       ]
+    },
+    {
+      "key": "kitwork",
+      "title": "Kitwork Engine Reports & Audits",
+      "description": "Deep technical reports and architectural audits on Bytecode VM design, Memory Allocation, Gas Accounting, DX, and Engine Verification.",
+      "items": [
+        {
+          "title": "Architecture Overview",
+          "path": "kitwork/architecture/architecture-overview.md",
+          "topics": ["kitwork", "architecture", "go-vm", "packages"]
+        },
+        {
+          "title": "System Verification & Engine Audit 2026",
+          "path": "kitwork/architecture/system-verification-and-engine-audit-2026.md",
+          "topics": ["kitwork", "audit", "verification", "testing", "benchmarks", "298-programs-pass"]
+        }
+      ]
     }
   ]
 }

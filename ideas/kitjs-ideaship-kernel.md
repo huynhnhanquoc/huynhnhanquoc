@@ -1,5 +1,8 @@
 # 💡 Ideaship: Evolution of the KitJS Hydration & Prerender Engine
 
+> **Historical design record:** native capability examples in this document predate the current
+> `kit.<service>.<method>()` contract. `$app` is now an application component alias.
+
 > **"Architectural design notes and ideaship dialogues detailing KitJS client hydration, DOM morphing, system variables, and native server-client bridge mechanics."**
 
 ---

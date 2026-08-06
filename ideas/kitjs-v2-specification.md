@@ -3,7 +3,8 @@
 > **Author & Principal Architect:** Huynh Nhan Quoc  
 > **Project:** `@kitwork/kitjs`  
 > **Ecosystem:** Kitwork Engine  
-> **Status:** Official Frozen Architectural Specification
+> **Status:** Historical V2 specification, superseded by the current noun-first `kit.*` service
+> contract. `$app` is now an ordinary application component, not a native capability portal.
 
 ---
 

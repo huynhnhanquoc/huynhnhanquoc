@@ -1,5 +1,9 @@
 # ⚛️ KitJS Kernel Design: Re-Thinking Client-Side Reactivity (V2 Evolution)
 
+> **Historical V2 note:** the current contract uses noun-first `kit.*` services and treats `$app`
+> as an ordinary application component. Examples such as `$app.camera()` below are retained only
+> to document the design's evolution.
+
 > **"No Virtual DOM overhead. No build pipeline friction. No framework verb registries. Just semantic HTML, lexical scope islands, and native reactive directives."**
 
 ---
