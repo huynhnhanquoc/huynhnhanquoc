@@ -1,46 +1,40 @@
-# Hi, I'm Huỳnh Nhân Quốc (Q) 👋
+# Huỳnh Nhân Quốc
 
-> **📍 Tam Ky ↔ Da Nang, Vietnam** | 🚀 **Indie Engineer** | 🧠 **Go VM Architect & Systems Developer**  
-> *"I used to spend years writing code by hand; now I craft sovereign execution engines alongside Agentic AI."*
+Indie engineer — Tam Kỳ / Đà Nẵng, Vietnam.
 
----
+I build bounded ways to run code nobody reviewed first — for years a multi-tenant
+runtime, now AI agents. Same six guarantees either way: capability, grant,
+sandbox, isolation, capsule, gas. An agent that can reach any tool, spend without
+a ceiling, and act without approval is just the multi-tenant problem wearing
+better marketing.
 
-## ⚙️ Core Focus
+### Now
 
-- ⚙️ **[Kitwork Engine](https://kitwork.io/)**: Sovereign multi-tenant Go logic engine & custom bytecode VM runtime.
-- 🔎 **[seoer.ai](https://seoer.ai/)**: Generative Engine Optimization (GEO) & AI search specification.
-- 🚀 **[theinpublic.com](https://theinpublic.com/)**: Build in Public & open startup knowledge hub.
-- 🎧 **[lofiwithme.com](https://lofiwithme.com/)**: Ambient focus & lofi workspace.
-- 🏠 **[huynhnhanquoc.com](https://huynhnhanquoc.com/)**: Personal portal, Substack writing & Digital Garden.
+- **[withAGENTIC.ai](https://withagentic.ai/)** — work with agents, not around
+  them. Name the outcome, agree the boundaries before access, get the result back
+  with its evidence and cost attached.
+- **[Kitwork](https://kitwork.io/)** ·
+  **[engine](https://github.com/kitwork/engine)** — the runtime underneath: a
+  small JavaScript subset compiled to verified bytecode on a hand-written Go stack
+  machine, metered per instruction. Not V8. Pre-1.0, AGPL-3.0.
 
----
+### Reading
 
-## 📖 Complete Life Story & Biography
+[concepts](concepts/) · [kitwork](kitwork/) · [blog](blog/) — the thirty ideas
+behind the engine, fifty technical notes, and sixty-five articles. The long
+version of me is in [about](about/README.md).
 
-> 📖 **[Read my full story & journey (2002 — 2026)](about/README.md)**
+### Also
 
-A detailed narrative of my journey: from barefoot gaming cafes in 2002, 2 years in the military (2014), dropping out of university to move to Saigon, the "Din Din" startup, 15,000 VND (~$0.60) local delivery service in Tam Ky, affiliate campaigns, to building custom JS frameworks and the **Kitwork Go Bytecode Engine**.
+[seoer.ai](https://seoer.ai/) · [kitjs.org](https://kitjs.org/) ·
+[lofiwithme.com](https://lofiwithme.com/) ·
+[theinpublic.com](https://theinpublic.com/) ·
+[huynhnhanquoc.com](https://huynhnhanquoc.com/)
 
----
+### Contact
 
-## 📚 Digital Garden & Knowledge Hub
-
-- 📄 **[65 Substack Articles (2020 – 2026)](blog/)**: Full archive of writings covering indie hacking, Go VM engineering, self-hosting, and life reflections.
-- 📄 **[49 Kitwork Technical Reports (kitwork/)](kitwork/)**: Deep technical reports on Bytecode VM design, Memory Allocation, Gas Accounting, DX, and Agent Runtime.
-- 📄 **[Concepts & Architecture (concepts/)](concepts/)**: Lexer, AST, Compiler, Bytecode, Opcode, VM, Sandbox, Isolation, ServerTruth, ZeroVM, Logic Capsules.
-
----
-
-## 🌐 Connect with Me
-
-- 📧 **Email**: [hi@huynhnhanquoc.com](mailto:hi@huynhnhanquoc.com)
-- 🌐 **Website**: [huynhnhanquoc.com](https://huynhnhanquoc.com)
-- 💻 **GitHub**: [@huynhnhanquoc](https://github.com/huynhnhanquoc)
-- 🐦 **X (Twitter)**: [@huynhnhanquoc](https://x.com/huynhnhanquoc)
-- 🧵 **Threads**: [@huynhnhanquoc](https://threads.com/@huynhnhanquoc)
-- 📰 **Substack**: [huynhnhanquoc.substack.com](https://huynhnhanquoc.substack.com)
-- 📺 **YouTube**: [@huynhnhanquoc](https://www.youtube.com/@huynhnhanquoc)
-
----
-
-*Maintained by [Huỳnh Nhân Quốc](https://huynhnhanquoc.com) — Tam Ky / Da Nang, Vietnam.*
+[hi@huynhnhanquoc.com](mailto:hi@huynhnhanquoc.com) ·
+[GitHub](https://github.com/huynhnhanquoc) ·
+[X](https://x.com/huynhnhanquoc) ·
+[Substack](https://huynhnhanquoc.substack.com) ·
+[YouTube](https://www.youtube.com/@huynhnhanquoc)

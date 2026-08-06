@@ -1,18 +1,23 @@
 projects:
+  - name: withAGENTIC.ai
+    url: https://withagentic.ai
+    tech: Agentic Workflows, Scoped Access, Declared Budgets
+    type: Agentic AI Hub
+
   - name: Kitwork Engine
-    url: https://github.com/kitwork/core
-    tech: Go, Custom Stack VM, SQLite WAL
+    url: https://github.com/kitwork/engine
+    tech: Go, Custom Stack VM, Bytecode Verifier, SQLite WAL
     type: Sovereign Web Runtime
+
+  - name: seoer.ai
+    url: https://seoer.ai
+    tech: Continuous Review, Draft and Verify Loop
+    type: AI Product
 
   - name: theinpublic.com
     url: https://theinpublic.com
     tech: Build in Public Knowledge Hub
     type: Open Startup Portal
-
-  - name: seoer.ai
-    url: https://seoer.ai
-    tech: AI Search & GEO Specification
-    type: SEO Platform
 
   - name: lofiwithme.com
     url: https://lofiwithme.com

@@ -39,6 +39,11 @@ build_in_public_ecosystem:
     type: Interactive Build in Public Handbook
     status: Active
 
+agentic:
+  - domain: withagentic.ai
+    type: Agentic AI Knowledge & Product Hub — bounded agent workflows
+    status: Active
+
 products_and_infrastructure:
   - domain: seoer.ai
     type: AI Search Engineering & GEO Specification Platform
